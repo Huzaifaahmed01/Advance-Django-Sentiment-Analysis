@@ -4,8 +4,8 @@ from pprint import pprint as pp
 
 def main():
     # Enter your Facebook email and password
-    email = 'toobaaamir8110@yahoo.com'
-    password = 'cs-18094'
+    email = ''
+    password =' '
 
     # Instantiate an object
     fps = Fps(email, password, post_url_text='Full Story')
