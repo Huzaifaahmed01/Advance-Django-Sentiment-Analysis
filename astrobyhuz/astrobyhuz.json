@@ -1,0 +1,1373 @@
+{
+    "GraphImages": [
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/127696948_2747058885559751_2311051073455492012_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=h_CwxVj_nsoAX-1n33j&tp=1&oh=3823e596cce169c26270cbd6046ec8b4&oe=5FF165B2&ig_cache_key=MjQ1MzA1MTYzMTIyOTIxNDg0Nw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 15
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "The Sun with two active regions(sun spots)\nMassive AR2786 and another AR2785 it's huge but not as much compared to 2786\n\nSecond take at solar projection photography this time I used my room wall which was not white but it did the job\n\nThe picture is sharp but lack details as I can get ar2784 also. Just set my phone with timed burst on Auto Mode and project the image on a wall.\n\n29-11-2020\n-Karachi, Pakistan\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #backyardastronomy #backyardastrophotography #sun #sunphoto #sunphotography #solar #solarphotography  #solarfilter #activeregions #sunspots #darkspot #ar2786 #ar2785 #pinhole #projection #solarsystem #astroenthusiast #amatureastronomy #amatureastrophotography #instagram #instagood #celestronuniverse #celestronoptics #poco #shotonpoco #pocox3"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2453051631229214847",
+            "is_video": false,
+            "media_preview": "ACoq5ypooHl5HA9TS28Xmtg9Byf8K2FGKhuxaVygLH/a/SoJLV05+8Pb/CtnFIRU8zK5Uc9S1cu4Qh3r0PX6/wD16pVonfUh6GjYjhj7itAVlWUm1ip/i6fUVqCs5blrYfSUUhNSUVbsZjP+e9ZFaV7Jhdvc/wAqza0jsZy3F6VoQ3gxh+D61n0lU1cSdjb89D/EPzqCS7Vfu/Mf0/OqIY461G3Wp5R8wOxc7m6mm0tJVkn/2Q==",
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CIK_XY3HCB_",
+            "tags": [
+                "backyardastrophotography",
+                "solarphotography",
+                "pocox3",
+                "sun",
+                "sunspots",
+                "solarsystem",
+                "projection",
+                "pinhole",
+                "shotonpoco",
+                "amatureastronomy",
+                "darkspot",
+                "activeregions",
+                "celestronoptics",
+                "celestronuniverse",
+                "astro",
+                "sunphoto",
+                "sunphotography",
+                "instagood",
+                "amatureastrophotography",
+                "astroenthusiast",
+                "instagram",
+                "poco",
+                "solar",
+                "solarfilter",
+                "backyardastronomy",
+                "ar2785",
+                "ar2786",
+                "astronomy"
+            ],
+            "taken_at_timestamp": 1606646563,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/127696948_2747058885559751_2311051073455492012_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=h_CwxVj_nsoAX-1n33j&tp=1&oh=a13a4deea3274f28ecd26152c013eea5&oe=5FF1C52E&ig_cache_key=MjQ1MzA1MTYzMTIyOTIxNDg0Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/127696948_2747058885559751_2311051073455492012_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=h_CwxVj_nsoAX-1n33j&tp=1&oh=0c4c4e8e714d491409df65e486ac9583&oe=5FF27666&ig_cache_key=MjQ1MzA1MTYzMTIyOTIxNDg0Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/127696948_2747058885559751_2311051073455492012_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=h_CwxVj_nsoAX-1n33j&tp=1&oh=da42400dbc5396767c3a81fa6a537120&oe=5FF1E2BB&ig_cache_key=MjQ1MzA1MTYzMTIyOTIxNDg0Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/127696948_2747058885559751_2311051073455492012_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=h_CwxVj_nsoAX-1n33j&tp=1&oh=4c15c3d37fa5807cbc600346b1475441&oe=5FF262F9&ig_cache_key=MjQ1MzA1MTYzMTIyOTIxNDg0Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/127696948_2747058885559751_2311051073455492012_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=h_CwxVj_nsoAX-1n33j&tp=1&oh=aa52114d37aa3e0deb941668ab228d01&oe=5FF474D9&ig_cache_key=MjQ1MzA1MTYzMTIyOTIxNDg0Nw%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/127696948_2747058885559751_2311051073455492012_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=h_CwxVj_nsoAX-1n33j&tp=1&oh=aa52114d37aa3e0deb941668ab228d01&oe=5FF474D9&ig_cache_key=MjQ1MzA1MTYzMTIyOTIxNDg0Nw%3D%3D.2",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/127696948_2747058885559751_2311051073455492012_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=h_CwxVj_nsoAX-1n33j&tp=1&oh=3823e596cce169c26270cbd6046ec8b4&oe=5FF165B2&ig_cache_key=MjQ1MzA1MTYzMTIyOTIxNDg0Nw%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/128439680_430945458070873_3654039623179623617_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=57DZklKqTpcAX9MqImm&tp=1&oh=d61b0cf893e6e71fc6a674dffcccd378&oe=5FF14EAC&ig_cache_key=MjQ1MjIzNjI5MDY3Njk3MTUwOA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 14
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "The Sun with two active regions(sun spots)\n\nAR2786(The most left one and the biggest) ➡️ AR2785 ➡️ AR2783(on the right a small faint black area)\n\nNo solar filter No problem we go old school projection method\n\nThe projection method was first used by famous muslim scientist Ibn al-Haytham to view the solar eclipse. He is the first person to view the eclipse without any harm.\n\nThe picture isn't perfect as I tried this method for the first time I just set my phone with timed burst on Auto Mode and project the image on a canvas.\n\n28-11-2020\n-Karachi, Pakistan\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #backyardastronomy #backyardastrophotography #sun #sunphoto #sunphotography #solar #solarphotography  #solarfilter #activeregions #sunspots #darkspot #ar2786 #ar2785 #pinhole #projection #solarsystem #astroenthusiast #amatureastronomy #amatureastrophotography #instagram #instagood #celestronuniverse #celestronoptics"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2452236290676971508",
+            "is_video": false,
+            "media_preview": "ACoqohdxwOTVxLUD73Jp9tHgbu5/lVrFQ30RSRB5K+g/Ko3tlPbH0q5imkVNyjJeMxnnp60zNaciBhg1lkEHHpWidxG1EPlH0qXFQW75Ue3FWayYxuKaRUlMNAETCqjIMmrbGstpSSSKpCZNHIYznt3FaKShxkViMTn/AD7VIhIxirkr6kpm1uqNmqqrHHU1VlYk8k1mlcslnm3fKvTuarYpRTq1SsQf/9k=",
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CIIF-nzH1f0",
+            "tags": [
+                "backyardastrophotography",
+                "solarphotography",
+                "sun",
+                "sunspots",
+                "solarsystem",
+                "projection",
+                "pinhole",
+                "amatureastronomy",
+                "darkspot",
+                "activeregions",
+                "celestronoptics",
+                "celestronuniverse",
+                "astro",
+                "sunphoto",
+                "sunphotography",
+                "instagood",
+                "amatureastrophotography",
+                "astroenthusiast",
+                "instagram",
+                "solar",
+                "solarfilter",
+                "backyardastronomy",
+                "ar2785",
+                "ar2786",
+                "astronomy"
+            ],
+            "taken_at_timestamp": 1606549367,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/128439680_430945458070873_3654039623179623617_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=57DZklKqTpcAX9MqImm&tp=1&oh=aaa0faec41992a5fd386214bbba43f91&oe=5FF3BC6B&ig_cache_key=MjQ1MjIzNjI5MDY3Njk3MTUwOA%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/128439680_430945458070873_3654039623179623617_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=57DZklKqTpcAX9MqImm&tp=1&oh=70fb7c7f3a98e354e32546f58a2ecb6d&oe=5FF39BED&ig_cache_key=MjQ1MjIzNjI5MDY3Njk3MTUwOA%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/128439680_430945458070873_3654039623179623617_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=57DZklKqTpcAX9MqImm&tp=1&oh=72a24d1a0f597f9347ec136e10604721&oe=5FF18293&ig_cache_key=MjQ1MjIzNjI5MDY3Njk3MTUwOA%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/128439680_430945458070873_3654039623179623617_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=57DZklKqTpcAX9MqImm&tp=1&oh=3f69521e842ac2cd64e8ef77d6cecb6c&oe=5FF2D656&ig_cache_key=MjQ1MjIzNjI5MDY3Njk3MTUwOA%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/128439680_430945458070873_3654039623179623617_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=57DZklKqTpcAX9MqImm&tp=1&oh=37672eea07a9a85b4d77a6e5baa13a30&oe=5FF39C70&ig_cache_key=MjQ1MjIzNjI5MDY3Njk3MTUwOA%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/128439680_430945458070873_3654039623179623617_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=57DZklKqTpcAX9MqImm&tp=1&oh=37672eea07a9a85b4d77a6e5baa13a30&oe=5FF39C70&ig_cache_key=MjQ1MjIzNjI5MDY3Njk3MTUwOA%3D%3D.2",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/128439680_430945458070873_3654039623179623617_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=57DZklKqTpcAX9MqImm&tp=1&oh=d61b0cf893e6e71fc6a674dffcccd378&oe=5FF14EAC&ig_cache_key=MjQ1MjIzNjI5MDY3Njk3MTUwOA%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1350,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/127187592_404117787436433_173515901843100132_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=aHbu2HIMIbsAX-cn-Ah&tp=1&oh=3154672778d85c482d00738bcdaea512&oe=5FF173A9&ig_cache_key=MjQ1MTE1ODE3MTE2NTQxOTE2OQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 17
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Messier 45 (Plaides)\n\nThis is one of the open cluster that you can easily see with naked eyes and in almost any sky until there is no cloud. It is also called seven sisters because of the seven brighter stars present in the cluster.\n\nI didn't capture much detail as was eager to capture orion, running man, flame and horsehead nebula 🙂\n\nShot on Canon 700D with 75-300mm kit lens at 200mm\n\nLights 200 x2.5\" ISO1600\nDarks 30 x2.5\" ISO1600\n\nStacked in Sequator\nPost Processed in Adobe Photoshop CC\n\n14-11-2020\n-Caves City Gondrani, Baluchistan, Pakistan\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #backyardastronomy #backyardastrophotography #plaides #sevensisters #cluster #starcluster #openstar #openstarcluster #adobe #adobephotoshop #messier #deepsky #deepskyphotography #m45 #sequator #astroenthusiast #amatureastronomy #amatureastrophotography #instagram #instagood #canonphotography #canon700d"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2451158171165419169",
+            "is_video": false,
+            "media_preview": "ACEq5qloooKCiiigAooooASlFFFABRRRQAlFFFAC0VfjUY6f5wKa6jyycdhQIpUUUUDCiiigD//Z",
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CIEQ16wnGah",
+            "tags": [
+                "backyardastrophotography",
+                "openstar",
+                "adobephotoshop",
+                "amatureastronomy",
+                "deepskyphotography",
+                "cluster",
+                "astro",
+                "starcluster",
+                "sequator",
+                "sevensisters",
+                "m45",
+                "instagood",
+                "amatureastrophotography",
+                "canon700d",
+                "plaides",
+                "canonphotography",
+                "astroenthusiast",
+                "instagram",
+                "openstarcluster",
+                "deepsky",
+                "adobe",
+                "backyardastronomy",
+                "messier",
+                "astronomy"
+            ],
+            "taken_at_timestamp": 1606420845,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.180.1440.1440a/s150x150/127187592_404117787436433_173515901843100132_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=aHbu2HIMIbsAX-cn-Ah&tp=1&oh=9e5e48ef9ba5fca2f1879007f7e48b03&oe=5FF36371&ig_cache_key=MjQ1MTE1ODE3MTE2NTQxOTE2OQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.180.1440.1440a/s240x240/127187592_404117787436433_173515901843100132_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=aHbu2HIMIbsAX-cn-Ah&tp=1&oh=921952ff7cc541d3944b29a69d9f2649&oe=5FF22DBB&ig_cache_key=MjQ1MTE1ODE3MTE2NTQxOTE2OQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.180.1440.1440a/s320x320/127187592_404117787436433_173515901843100132_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=aHbu2HIMIbsAX-cn-Ah&tp=1&oh=42b964a4c74c47564a96c8372eb05f25&oe=5FF1BF81&ig_cache_key=MjQ1MTE1ODE3MTE2NTQxOTE2OQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.180.1440.1440a/s480x480/127187592_404117787436433_173515901843100132_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=aHbu2HIMIbsAX-cn-Ah&tp=1&oh=14da72e4d653c1da8d1777d7a11f2075&oe=5FF3845B&ig_cache_key=MjQ1MTE1ODE3MTE2NTQxOTE2OQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/127187592_404117787436433_173515901843100132_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=aHbu2HIMIbsAX-cn-Ah&tp=1&oh=0f998bd0c2dd52149558b1b982473771&oe=5FF3ABBC&ig_cache_key=MjQ1MTE1ODE3MTE2NTQxOTE2OQ%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/127187592_404117787436433_173515901843100132_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=aHbu2HIMIbsAX-cn-Ah&tp=1&oh=0f998bd0c2dd52149558b1b982473771&oe=5FF3ABBC&ig_cache_key=MjQ1MTE1ODE3MTE2NTQxOTE2OQ%3D%3D.2.c",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/127187592_404117787436433_173515901843100132_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=aHbu2HIMIbsAX-cn-Ah&tp=1&oh=3154672778d85c482d00738bcdaea512&oe=5FF173A9&ig_cache_key=MjQ1MTE1ODE3MTE2NTQxOTE2OQ%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 720,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/126901811_3642189805836285_1933175214363667920_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=q0MYFvsAH6QAX-hwZ_4&tp=1&oh=9ff4d1793f1d7c3c30380b4b642fa48f&oe=5FF1A54A&ig_cache_key=MjQ0ODIzNTIwNjE2NTg3NTE1Mw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 18
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Second post in a day but I just can't wait to show this picture\n\nMilkyWay Winter Arm\n\nI felt completely amazed after watching milkyway that moment cannot be described in words\n\nTaken from Bortle 2-3 sky region\n\nSingle shot of 30\" ISO3200 on Canon 700D with tamron 17-70mm f/2.8 lens processed in Photoshop\n\n14-11-2020\n-Caves City Gondrani, Baluchistan, Pakistan\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #backyardastronomy #backyardastrophotography #milkyway #milkywayphotography  #galaxies #stars #darkskies #bortle3 #bortle2sky #adobe #adobephotoshop #astroenthusiast #amatureastronomy #amatureastrophotography #instagram #instagood #celestronuniverse #celestronoptics #canonphotography #canon700d"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2448235206165875153",
+            "is_video": false,
+            "media_preview": "ACoc50ClxSilqxCYoxS5ooAYRTcU802kAuaXNMpRQA+inBeM0ygAptKabQB//9k=",
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CH54PLeH0nR",
+            "tags": [
+                "backyardastrophotography",
+                "darkskies",
+                "adobephotoshop",
+                "galaxies",
+                "bortle2sky",
+                "amatureastronomy",
+                "celestronoptics",
+                "astronomy",
+                "celestronuniverse",
+                "astro",
+                "milkywayphotography",
+                "instagood",
+                "amatureastrophotography",
+                "canon700d",
+                "bortle3",
+                "canonphotography",
+                "astroenthusiast",
+                "milkyway",
+                "instagram",
+                "adobe",
+                "backyardastronomy",
+                "stars"
+            ],
+            "taken_at_timestamp": 1606072401,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c240.0.960.960a/s150x150/126901811_3642189805836285_1933175214363667920_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=q0MYFvsAH6QAX-hwZ_4&tp=1&oh=74fbf65a758ac2a4cda99baed01a1bc1&oe=5FF14EF8&ig_cache_key=MjQ0ODIzNTIwNjE2NTg3NTE1Mw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c240.0.960.960a/s240x240/126901811_3642189805836285_1933175214363667920_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=q0MYFvsAH6QAX-hwZ_4&tp=1&oh=25c8ecf679ebb20ab99f532e71040c3a&oe=5FF3F940&ig_cache_key=MjQ0ODIzNTIwNjE2NTg3NTE1Mw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c240.0.960.960a/s320x320/126901811_3642189805836285_1933175214363667920_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=q0MYFvsAH6QAX-hwZ_4&tp=1&oh=e61cd9fd552ab52e3825320e682d9c9a&oe=5FF3A961&ig_cache_key=MjQ0ODIzNTIwNjE2NTg3NTE1Mw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c240.0.960.960a/s480x480/126901811_3642189805836285_1933175214363667920_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=q0MYFvsAH6QAX-hwZ_4&tp=1&oh=e1bcca4e7adc1a8a54e1278ca2de3402&oe=5FF23123&ig_cache_key=MjQ0ODIzNTIwNjE2NTg3NTE1Mw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c240.0.960.960a/s640x640/126901811_3642189805836285_1933175214363667920_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=q0MYFvsAH6QAX-hwZ_4&tp=1&oh=acfd8f489a83b5d83e5f355b11aa47e3&oe=5FF30B8A&ig_cache_key=MjQ0ODIzNTIwNjE2NTg3NTE1Mw%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c240.0.960.960a/s640x640/126901811_3642189805836285_1933175214363667920_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=q0MYFvsAH6QAX-hwZ_4&tp=1&oh=acfd8f489a83b5d83e5f355b11aa47e3&oe=5FF30B8A&ig_cache_key=MjQ0ODIzNTIwNjE2NTg3NTE1Mw%3D%3D.2.c",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/126901811_3642189805836285_1933175214363667920_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=q0MYFvsAH6QAX-hwZ_4&tp=1&oh=9ff4d1793f1d7c3c30380b4b642fa48f&oe=5FF1A54A&ig_cache_key=MjQ0ODIzNTIwNjE2NTg3NTE1Mw%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 750,
+                "width": 750
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/126856710_195476078735093_2019879592498243756_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Jm_eTIYfbdUAX-wZE_U&tp=1&oh=3fa13865f459786e5436ff298501776a&oe=5FF1CD8E&ig_cache_key=MjQ0ODIyNzc0MDQwNTMyODE1Nw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 14
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "The closest star to the Earth -SUN\n\nYou can't just look at it with just a telescope so a filter is use to polarize the light or you can say that to lower its brightness\n\n20x 1/400sec ISO100 shot on Canon 700D with 75-300mm kit lens\n\n20shots stacked in Autostackerk3\nSharpened in Registax6\nPost Processed in Photoshop\n\n15-11-2020\n-Caves City, Gondrani, Baluchistan, Pakistan\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #backyardastronomy #backyardastrophotography #sun #sunphoto #sunphotography #solar #solarphotography  #solarfilter  #thousandoaks #canonoptics  #75300mm #solarsystem #sequator #astroenthusiast #amatureastronomy #amatureastrophotography #instagram #instagood #celestronuniverse #celestronoptics #canonphotography #canon700d #registax #registax6 #autostackert #adobe #adobephotoshop"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2448227740405328157",
+            "is_video": false,
+            "media_preview": "ACoq5xVLHA61cS3A68mkt0wM9zVsCsZS6I3jHqyPyl9B+VRvbqfb6VaxSEVF2XZGS6FDg0ytKaPcuO/as6tou5hJWZpRfdH0FTiqdu+Vx6VbBrF7m62HUGkzQTUlDGrJbqfrWlK+0E1m1tAxn0FVihyKvRzq3saz6cvUfWraTIUmjU3io3mVeppgAwP89qqSjDnFRyFc/kLJIXPt6VHSUVpsZ7n/2Q==",
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CH52iicHekd",
+            "tags": [
+                "75300mm",
+                "backyardastrophotography",
+                "solarphotography",
+                "adobephotoshop",
+                "sun",
+                "solarsystem",
+                "autostackert",
+                "amatureastronomy",
+                "registax6",
+                "celestronoptics",
+                "celestronuniverse",
+                "astro",
+                "sunphoto",
+                "sequator",
+                "sunphotography",
+                "instagood",
+                "amatureastrophotography",
+                "canon700d",
+                "canonphotography",
+                "astroenthusiast",
+                "instagram",
+                "canonoptics",
+                "solar",
+                "solarfilter",
+                "thousandoaks",
+                "adobe",
+                "backyardastronomy",
+                "registax",
+                "astronomy"
+            ],
+            "taken_at_timestamp": 1606071511,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/126856710_195476078735093_2019879592498243756_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Jm_eTIYfbdUAX-wZE_U&tp=1&oh=be159afa5330a5457177fd3966a5ac7c&oe=5FF15FB3&ig_cache_key=MjQ0ODIyNzc0MDQwNTMyODE1Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/126856710_195476078735093_2019879592498243756_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Jm_eTIYfbdUAX-wZE_U&tp=1&oh=accf7457755678556c2948febe52eb91&oe=5FF21AB5&ig_cache_key=MjQ0ODIyNzc0MDQwNTMyODE1Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/126856710_195476078735093_2019879592498243756_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Jm_eTIYfbdUAX-wZE_U&tp=1&oh=abb2acf5ad91ca9eacea355a88f01982&oe=5FF0D64B&ig_cache_key=MjQ0ODIyNzc0MDQwNTMyODE1Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/126856710_195476078735093_2019879592498243756_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Jm_eTIYfbdUAX-wZE_U&tp=1&oh=7e9bcdf86038b00566913d6f2569deac&oe=5FF2A68E&ig_cache_key=MjQ0ODIyNzc0MDQwNTMyODE1Nw%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/126856710_195476078735093_2019879592498243756_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Jm_eTIYfbdUAX-wZE_U&tp=1&oh=7ea7deaec95fcf9fd37d29b4f68f2a3b&oe=5FF1CC38&ig_cache_key=MjQ0ODIyNzc0MDQwNTMyODE1Nw%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/126856710_195476078735093_2019879592498243756_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Jm_eTIYfbdUAX-wZE_U&tp=1&oh=7ea7deaec95fcf9fd37d29b4f68f2a3b&oe=5FF1CC38&ig_cache_key=MjQ0ODIyNzc0MDQwNTMyODE1Nw%3D%3D.2",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/126856710_195476078735093_2019879592498243756_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Jm_eTIYfbdUAX-wZE_U&tp=1&oh=3fa13865f459786e5436ff298501776a&oe=5FF1CD8E&ig_cache_key=MjQ0ODIyNzc0MDQwNTMyODE1Nw%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/126182117_775027269716797_1477164938449790098_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=dMkyA-nzDD8AX_LMdEn&tp=1&oh=6abc877d0416af293f938511520a4030&oe=5FF1CD59&ig_cache_key=MjQ0NzUxODY3NzI2NjgxNDAzMw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 16
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "First Take on making a composite shot in RAW on POCO X3\n\n2 single shots are composed\n\nIt turned out better than I expected 😅 will try make it even better next month\n\n21-11-2020\n-Karachi, Sindh, Pakistan\n\nInspired by @talha_moon_zia\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #backyardastronomy #backyardastrophotography #moon #composite #earthshine #shotonpoco #poco #pocox3 #shotonpocox3 #moonshine #adobe #editphotoshop  #editonphotoshop #adobephotoshop #astroenthusiast #amatureastronomy #amatureastrophotography #instagram #instagood #celestronuniverse #celestronoptics #canonphotography"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2447518677266814033",
+            "is_video": false,
+            "media_preview": "ACoq54CpFQscAEk9hSIpYgDkngV1FvbrbLgfe/ibufb6UwML+z58Z2H9M/lmqrxshwwIPoa6gS5qC5aOVdsmPY9x9KQ7HMkUlSOu0kdcdxUdMRcsiBMmfWtO4vVGQOT6D/GsEHFSA0AWnunbp8o9v8arnnrzSUE4oAY1MpSaSgBKXNJSr1oAXdSZqfNQN1NACUUUUgP/2Q==",
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CH3VUT7n1RR",
+            "tags": [
+                "backyardastrophotography",
+                "moon",
+                "earthshine",
+                "pocox3",
+                "adobephotoshop",
+                "shotonpoco",
+                "amatureastronomy",
+                "celestronoptics",
+                "astronomy",
+                "celestronuniverse",
+                "astro",
+                "moonshine",
+                "instagood",
+                "composite",
+                "amatureastrophotography",
+                "editonphotoshop",
+                "canonphotography",
+                "astroenthusiast",
+                "instagram",
+                "poco",
+                "editphotoshop",
+                "adobe",
+                "backyardastronomy",
+                "shotonpocox3"
+            ],
+            "taken_at_timestamp": 1605986984,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/126182117_775027269716797_1477164938449790098_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=dMkyA-nzDD8AX_LMdEn&tp=1&oh=40e7f3ca1992205fa88dbbbfb3aa8073&oe=5FF0D39A&ig_cache_key=MjQ0NzUxODY3NzI2NjgxNDAzMw%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/126182117_775027269716797_1477164938449790098_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=dMkyA-nzDD8AX_LMdEn&tp=1&oh=0917ac423bf41937df558d1221ceb9bb&oe=5FF240A0&ig_cache_key=MjQ0NzUxODY3NzI2NjgxNDAzMw%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/126182117_775027269716797_1477164938449790098_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=dMkyA-nzDD8AX_LMdEn&tp=1&oh=d6c012b7eb589df8a61ec28eb8b3d68f&oe=5FF13A62&ig_cache_key=MjQ0NzUxODY3NzI2NjgxNDAzMw%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/126182117_775027269716797_1477164938449790098_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=dMkyA-nzDD8AX_LMdEn&tp=1&oh=d5bb9d1cc4d36dfc0550423341cd7b7e&oe=5FF36127&ig_cache_key=MjQ0NzUxODY3NzI2NjgxNDAzMw%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/126182117_775027269716797_1477164938449790098_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=dMkyA-nzDD8AX_LMdEn&tp=1&oh=e3658f3f64bb0f51ed91df8379439ccf&oe=5FF4299D&ig_cache_key=MjQ0NzUxODY3NzI2NjgxNDAzMw%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/126182117_775027269716797_1477164938449790098_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=dMkyA-nzDD8AX_LMdEn&tp=1&oh=e3658f3f64bb0f51ed91df8379439ccf&oe=5FF4299D&ig_cache_key=MjQ0NzUxODY3NzI2NjgxNDAzMw%3D%3D.2",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/126182117_775027269716797_1477164938449790098_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=dMkyA-nzDD8AX_LMdEn&tp=1&oh=6abc877d0416af293f938511520a4030&oe=5FF1CD59&ig_cache_key=MjQ0NzUxODY3NzI2NjgxNDAzMw%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1350,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/125499217_799334290922457_4754039781773617013_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=MoDVziIMP-cAX9_XKV6&tp=1&oh=ee1cd316559749ae46ca3e55bb02c7e6&oe=5FF26D08&ig_cache_key=MjQ0NTEwOTg1NjIwODUwMTEyMw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 25
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Zodiacal light (Subah-e-Kaazib)  also called false Dawn\n\nZodiacal light is a faint, diffuse, and roughly triangular white glow visible in the night sky that appears to extend from the vicinity of the Sun along the ecliptic or zodiac. Sunlight scattered by interplanetary dust in the zodiacal cloud causes this phenomenon.\n\nI got lucky with the shot as Venus is mimicking like the SUN when it is at the dawn\n\n10shots stacked in Sequator to increase dynamic range\n\n10x30\" ISO1600\n\n15-11-2020\n-Caves City, Gondrani, Baluchistan, Pakistan\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #zodiac #zodiaclight #zodiacallight #falsedawn #venus #tamron #tamronOptics #backyardastronomy #backyardastrophotography #deepsky #deepskyphotography #sequator #astroenthusiast #amatureastronomy #amatureastrophotography #instagram #instagood #canonphotography #canon700d"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2445109856208501123",
+            "is_video": false,
+            "media_preview": "ACEq5zFLilxTgKkY3FHIp+KaRQA3JopcUUwHYp4FIBUgFSMbimkVMRUZFAEeKKdRTEOFSqKhFSpUlD2GKiNSOc1CaEAlFJRTEf/Z",
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CHuxnWgHTmD",
+            "tags": [
+                "backyardastrophotography",
+                "zodiaclight",
+                "tamronOptics",
+                "falsedawn",
+                "zodiac",
+                "amatureastronomy",
+                "deepskyphotography",
+                "astro",
+                "sequator",
+                "tamron",
+                "instagood",
+                "amatureastrophotography",
+                "canon700d",
+                "canonphotography",
+                "venus",
+                "zodiacallight",
+                "astroenthusiast",
+                "instagram",
+                "deepsky",
+                "backyardastronomy",
+                "astronomy"
+            ],
+            "taken_at_timestamp": 1605699830,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.180.1440.1440a/s150x150/125499217_799334290922457_4754039781773617013_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=MoDVziIMP-cAX9_XKV6&tp=1&oh=8dd9cfd1d4e3a9a56b19ffe389de2410&oe=5FF21094&ig_cache_key=MjQ0NTEwOTg1NjIwODUwMTEyMw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.180.1440.1440a/s240x240/125499217_799334290922457_4754039781773617013_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=MoDVziIMP-cAX9_XKV6&tp=1&oh=cfcd60289da70cdb9c47be30f7d3d17f&oe=5FF1EE16&ig_cache_key=MjQ0NTEwOTg1NjIwODUwMTEyMw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.180.1440.1440a/s320x320/125499217_799334290922457_4754039781773617013_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=MoDVziIMP-cAX9_XKV6&tp=1&oh=94754c35689880747ae25f054b316430&oe=5FF102EC&ig_cache_key=MjQ0NTEwOTg1NjIwODUwMTEyMw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.180.1440.1440a/s480x480/125499217_799334290922457_4754039781773617013_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=MoDVziIMP-cAX9_XKV6&tp=1&oh=5f072043364f982753f9d218d3b32bfe&oe=5FF47A2D&ig_cache_key=MjQ0NTEwOTg1NjIwODUwMTEyMw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/125499217_799334290922457_4754039781773617013_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=MoDVziIMP-cAX9_XKV6&tp=1&oh=592f417bee8cc0b5ef62638d0eebaf3f&oe=5FF39424&ig_cache_key=MjQ0NTEwOTg1NjIwODUwMTEyMw%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/125499217_799334290922457_4754039781773617013_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=MoDVziIMP-cAX9_XKV6&tp=1&oh=592f417bee8cc0b5ef62638d0eebaf3f&oe=5FF39424&ig_cache_key=MjQ0NTEwOTg1NjIwODUwMTEyMw%3D%3D.2.c",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/125499217_799334290922457_4754039781773617013_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=MoDVziIMP-cAX9_XKV6&tp=1&oh=ee1cd316559749ae46ca3e55bb02c7e6&oe=5FF26D08&ig_cache_key=MjQ0NTEwOTg1NjIwODUwMTEyMw%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 720,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/125338606_399230281446271_5142985145615261468_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WRqgYewTlxsAX8aKUM_&tp=1&oh=4eb4b18a41c018cf245f777ba81b2931&oe=5FF1D7E3&ig_cache_key=MjQ0NDIyMjk3MDQzNDg1NzIyNQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 22
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "For Us the Earth rotates along the north star also called polaris and sometimes polar center when the earth rotates it feels like the stars are rotating but they are not this way we captures Star Trails a beautiful phenomena caused by the rotation of earth.\n\nSwitch the phone to max brightness to view maximum stars\n\nAll shot on Canon 700D with Tamron 17-70mm wide angle lens\n\nTotal Exposure 30mins\nSubs 1minx30\n\n15-11-2020\nCaves City, Gondrani, Baluchistan, Pakistan\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #backyardastronomy #backyardastrophotography #stars #trails #tamron #tamronoptics #startrails #bortle2 #bortle3 #starrysky #sequator #astroenthusiast #amatuerphotographer #amatuerastrophotography #amatureastronomy #amatureastrophotography #instagram #instagood  #canonphotography #canon700d"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2444222970434857225",
+            "is_video": false,
+            "media_preview": "ACocwQKKKWkMSiiigBKbT6TFADqSrc8KRHCj8+aoMMGgCWioc0uTQBIaSkXmnbaAP//Z",
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CHrn9dwnqkJ",
+            "tags": [
+                "backyardastrophotography",
+                "stars",
+                "trails",
+                "amatuerastrophotography",
+                "amatureastronomy",
+                "astro",
+                "sequator",
+                "tamron",
+                "starrysky",
+                "startrails",
+                "amatuerphotographer",
+                "instagood",
+                "amatureastrophotography",
+                "canon700d",
+                "bortle3",
+                "canonphotography",
+                "astroenthusiast",
+                "backyardastronomy",
+                "instagram",
+                "tamronoptics",
+                "bortle2",
+                "astronomy"
+            ],
+            "taken_at_timestamp": 1605594105,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c239.0.961.961a/s150x150/125338606_399230281446271_5142985145615261468_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WRqgYewTlxsAX8aKUM_&tp=1&oh=c39768013d633f15a72bb2294383af35&oe=5FF239BA&ig_cache_key=MjQ0NDIyMjk3MDQzNDg1NzIyNQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c239.0.961.961a/s240x240/125338606_399230281446271_5142985145615261468_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WRqgYewTlxsAX8aKUM_&tp=1&oh=c29245f828c536da7c5e66a74fc98316&oe=5FF49240&ig_cache_key=MjQ0NDIyMjk3MDQzNDg1NzIyNQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c239.0.961.961a/s320x320/125338606_399230281446271_5142985145615261468_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WRqgYewTlxsAX8aKUM_&tp=1&oh=63f0e0310e517bc0afe3becde669f273&oe=5FF2FE42&ig_cache_key=MjQ0NDIyMjk3MDQzNDg1NzIyNQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c239.0.961.961a/s480x480/125338606_399230281446271_5142985145615261468_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WRqgYewTlxsAX8aKUM_&tp=1&oh=62623282ed0aeb19ee14124ba699e733&oe=5FF3A687&ig_cache_key=MjQ0NDIyMjk3MDQzNDg1NzIyNQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c239.0.961.961a/s640x640/125338606_399230281446271_5142985145615261468_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WRqgYewTlxsAX8aKUM_&tp=1&oh=61b9c4d699f586d11ede658eb0888abb&oe=5FF3367F&ig_cache_key=MjQ0NDIyMjk3MDQzNDg1NzIyNQ%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c239.0.961.961a/s640x640/125338606_399230281446271_5142985145615261468_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WRqgYewTlxsAX8aKUM_&tp=1&oh=61b9c4d699f586d11ede658eb0888abb&oe=5FF3367F&ig_cache_key=MjQ0NDIyMjk3MDQzNDg1NzIyNQ%3D%3D.2.c",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/125338606_399230281446271_5142985145615261468_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=WRqgYewTlxsAX8aKUM_&tp=1&oh=4eb4b18a41c018cf245f777ba81b2931&oe=5FF1D7E3&ig_cache_key=MjQ0NDIyMjk3MDQzNDg1NzIyNQ%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 607,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/125321595_432162331518685_4498201240761905373_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=oCsKxw7eUkEAX8zsbMf&tp=1&oh=fd47b960f031cf5a06b19ed5a9e508ca&oe=5FF3522E&ig_cache_key=MjQ0Mzc1NzM1Njk0Nzc2NjM4NA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 22
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "The picture that sums up my entire trip to Caves City, Baluchistan, a bortle 2-3 Sky Region. I have never ever went to such a remote place and also never seen such dark skies that I couldn't able to see more than a feet.\n\nThe picture contains Flame Nebula Running Man Nebula and Orion Nebula and also there are very light pixels of horsehead can be seen but due to compression it can not be seen.\n\nLights 826x2.5\" ISO1600\nDarks 30x2.5\" ISO1600\n\nNo Flats and Bias Frames\n\nTotal Exposure Time: 34.5mins\n\n14-11-2020\n\n-Caves City, Gondrani, Baluchistan, Pakistan\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #backyardastronomy #backyardastrophotography #nebula #orion #messier #deepsky #deepskyphotography #m42 #m43 #flamenebula #horseheadnebula #runningmannebula #orionnebula #sequator #astroenthusiast #amatureastronomy #amatureastrophotography #instagram #instagood #celestronuniverse #celestronoptics #canonphotography #canon700d #photographychallenge #darksky #bortle2sky #bortle2 #bortle3"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 2
+            },
+            "gating_info": null,
+            "id": "2443757356947766384",
+            "is_video": false,
+            "media_preview": "ACoX53iikpaACiilHvQA2inlCBuxwehplAwpRzxRRQA/ym9P5U0gg4NFFADvMJUKc7RnA9M1HRRQB//Z",
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CHp-F5aHnxw",
+            "tags": [
+                "orionnebula",
+                "backyardastrophotography",
+                "horseheadnebula",
+                "bortle2sky",
+                "amatureastronomy",
+                "celestronoptics",
+                "deepskyphotography",
+                "celestronuniverse",
+                "m43",
+                "astro",
+                "m42",
+                "darksky",
+                "sequator",
+                "orion",
+                "flamenebula",
+                "instagood",
+                "amatureastrophotography",
+                "canon700d",
+                "bortle2",
+                "bortle3",
+                "canonphotography",
+                "astroenthusiast",
+                "nebula",
+                "instagram",
+                "photographychallenge",
+                "runningmannebula",
+                "deepsky",
+                "backyardastronomy",
+                "messier",
+                "astronomy"
+            ],
+            "taken_at_timestamp": 1605538600,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c315.0.810.810a/s150x150/125321595_432162331518685_4498201240761905373_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=oCsKxw7eUkEAX8zsbMf&tp=1&oh=780f3cf8fd5226e70a5dac4265af8d56&oe=5FF4918B&ig_cache_key=MjQ0Mzc1NzM1Njk0Nzc2NjM4NA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c315.0.810.810a/s240x240/125321595_432162331518685_4498201240761905373_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=oCsKxw7eUkEAX8zsbMf&tp=1&oh=773bd16e7fec879d0d9f56862b64357b&oe=5FF44A8D&ig_cache_key=MjQ0Mzc1NzM1Njk0Nzc2NjM4NA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c315.0.810.810a/s320x320/125321595_432162331518685_4498201240761905373_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=oCsKxw7eUkEAX8zsbMf&tp=1&oh=3a50f5f550814fc47a87a36d691ddb85&oe=5FF46273&ig_cache_key=MjQ0Mzc1NzM1Njk0Nzc2NjM4NA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c315.0.810.810a/s480x480/125321595_432162331518685_4498201240761905373_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=oCsKxw7eUkEAX8zsbMf&tp=1&oh=34273f44cf083b72c47633d3828407bb&oe=5FF498B6&ig_cache_key=MjQ0Mzc1NzM1Njk0Nzc2NjM4NA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/125321595_432162331518685_4498201240761905373_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=oCsKxw7eUkEAX8zsbMf&tp=1&oh=dc2f7c0b9700f0be28121489272ee004&oe=5FF1A44E&ig_cache_key=MjQ0Mzc1NzM1Njk0Nzc2NjM4NA%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/125321595_432162331518685_4498201240761905373_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=oCsKxw7eUkEAX8zsbMf&tp=1&oh=dc2f7c0b9700f0be28121489272ee004&oe=5FF1A44E&ig_cache_key=MjQ0Mzc1NzM1Njk0Nzc2NjM4NA%3D%3D.2.c",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/125321595_432162331518685_4498201240761905373_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=oCsKxw7eUkEAX8zsbMf&tp=1&oh=fd47b960f031cf5a06b19ed5a9e508ca&oe=5FF3522E&ig_cache_key=MjQ0Mzc1NzM1Njk0Nzc2NjM4NA%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 607,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/124901305_1108515212920464_4115422529552346037_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=uktOHD2ZiJ8AX80WT1B&tp=1&oh=97f4a6d2e49baabcd45da3e49503d37a&oe=5FF15C42&ig_cache_key=MjQzOTU1ODI4Mzk4MjA1MzEzMA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 22
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "I think I am mastering it in each try\n\nM42 Orion Nebula\n\nShot on Canon 700D with 75-300mm kit lens at 300mm\n\nLights 200 x2 ISO800\nDarks 20 x2 ISO800\n\nStacked in Sequator and post processed in Adobe Photoshop CC 2020\n\n09-11-2020\n-Karachi, Pakistan\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #backyardastronomy #backyardastrophotography #nebula #orion #messier #deepsky #deepskyphotography #m42 #orionnebula #sequator #astroenthusiast #amatureastronomy #amatureastrophotography #instagram #instagood #celestronuniverse #celestronoptics #canonphotography #canon700d #photographychallenge"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 1
+            },
+            "gating_info": null,
+            "id": "2439558283982053130",
+            "is_video": false,
+            "media_preview": "ACoX5qinBc9PrSAUwExRWg8Ufk71bLg4K+nvnuKoU2hi7zSbjSsAOB27+tJSEFFFFAxaOtFFABijJoooA//Z",
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CHbDVV9nJ8K",
+            "tags": [
+                "orionnebula",
+                "backyardastrophotography",
+                "amatureastronomy",
+                "celestronoptics",
+                "deepskyphotography",
+                "celestronuniverse",
+                "astro",
+                "m42",
+                "sequator",
+                "orion",
+                "instagood",
+                "amatureastrophotography",
+                "canon700d",
+                "canonphotography",
+                "astroenthusiast",
+                "nebula",
+                "instagram",
+                "photographychallenge",
+                "deepsky",
+                "backyardastronomy",
+                "messier",
+                "astronomy"
+            ],
+            "taken_at_timestamp": 1605038031,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c283.0.729.729a/s150x150/124901305_1108515212920464_4115422529552346037_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=uktOHD2ZiJ8AX80WT1B&tp=1&oh=3f089b3dffa8dd0a830a15fb2c2b3edd&oe=5FF391F4&ig_cache_key=MjQzOTU1ODI4Mzk4MjA1MzEzMA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c283.0.729.729a/s240x240/124901305_1108515212920464_4115422529552346037_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=uktOHD2ZiJ8AX80WT1B&tp=1&oh=bb15277d1de2e45942b2893df924c8a0&oe=5FF3C7BC&ig_cache_key=MjQzOTU1ODI4Mzk4MjA1MzEzMA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c283.0.729.729a/s320x320/124901305_1108515212920464_4115422529552346037_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=uktOHD2ZiJ8AX80WT1B&tp=1&oh=fafb43ac4b6c2d67f808507187d0f341&oe=5FF223E5&ig_cache_key=MjQzOTU1ODI4Mzk4MjA1MzEzMA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c283.0.729.729a/s480x480/124901305_1108515212920464_4115422529552346037_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=uktOHD2ZiJ8AX80WT1B&tp=1&oh=e0ff5edaf6d5e6e9b956b902fb9a97d1&oe=5FF15827&ig_cache_key=MjQzOTU1ODI4Mzk4MjA1MzEzMA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c283.0.729.729a/s640x640/124901305_1108515212920464_4115422529552346037_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=uktOHD2ZiJ8AX80WT1B&tp=1&oh=b6102eeabd3e93cfcb521ac8aa7078cc&oe=5FF4610E&ig_cache_key=MjQzOTU1ODI4Mzk4MjA1MzEzMA%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c283.0.729.729a/s640x640/124901305_1108515212920464_4115422529552346037_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=uktOHD2ZiJ8AX80WT1B&tp=1&oh=b6102eeabd3e93cfcb521ac8aa7078cc&oe=5FF4610E&ig_cache_key=MjQzOTU1ODI4Mzk4MjA1MzEzMA%3D%3D.2.c",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/124901305_1108515212920464_4115422529552346037_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=uktOHD2ZiJ8AX80WT1B&tp=1&oh=97f4a6d2e49baabcd45da3e49503d37a&oe=5FF15C42&ig_cache_key=MjQzOTU1ODI4Mzk4MjA1MzEzMA%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 321,
+                "width": 320
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/123628225_420153552727070_466439280029425237_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=K9L9XZkENx4AX-jWDaF&tp=1&oh=61ed2eb064d8ed320772e6cbd2be424c&oe=5FF30AD5&ig_cache_key=MjQzNzEzMDk3MDc2NjEwMzQ3NQ%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 16
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Saturn -The Lord Of the Rings\n\nShot it a couple of weeks before after fixing a small calculation error in my telescope get this wonderful shot with the cassini division\n\nShot on POCO X3 in 4K\n50% best frames stacked out of 1200frames\n\nPre processed in PIPP\nStacked in AutoStackertt3\nWavelets in Registax6\nPost Processed in Snapseed Mobile\n\n24-10-2020\n-Karachi, Pakistan\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #backyardastronomy #backyardastrophotography #planet #planetaryphotography #saturn #gasgiant #lordoftherings #solarsystem #autostacker #autostackert #pipp #registax #registax6 #solarsystem #cosmos #marsopposition #astroenthusiast #amatureastronomy #amatureastrophotography #instagram #instagood #celestronuniverse #celestronoptics #mobilephotography #mobileastrophotography #shotonpoco #shotonpocox3 #poco #pocox3"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2437130970766103475",
+            "is_video": false,
+            "media_preview": "ACoq5miiigAooooAKKKKACiiigC6lqAm92xjt/n29AapnGeOlJmigAooooAKMUUUALtIoKkdaM0ZoASiiigD/9k=",
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CHSbbSXndOz",
+            "tags": [
+                "backyardastrophotography",
+                "planetaryphotography",
+                "pocox3",
+                "autostacker",
+                "marsopposition",
+                "cosmos",
+                "solarsystem",
+                "autostackert",
+                "lordoftherings",
+                "shotonpoco",
+                "registax6",
+                "amatureastronomy",
+                "celestronoptics",
+                "celestronuniverse",
+                "astro",
+                "pipp",
+                "mobilephotography",
+                "instagood",
+                "mobileastrophotography",
+                "amatureastrophotography",
+                "shotonpocox3",
+                "planet",
+                "astroenthusiast",
+                "instagram",
+                "poco",
+                "gasgiant",
+                "saturn",
+                "backyardastronomy",
+                "registax",
+                "astronomy"
+            ],
+            "taken_at_timestamp": 1604748673,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.0.320.320a/s150x150/123628225_420153552727070_466439280029425237_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=K9L9XZkENx4AX-jWDaF&tp=1&oh=99c318a477551b0ab00ea50f561063a5&oe=5FF22B4D&ig_cache_key=MjQzNzEzMDk3MDc2NjEwMzQ3NQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.0.320.320a/s240x240/123628225_420153552727070_466439280029425237_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=K9L9XZkENx4AX-jWDaF&tp=1&oh=a796467d4afc69aa959d58cf5da9465c&oe=5FF2FC87&ig_cache_key=MjQzNzEzMDk3MDc2NjEwMzQ3NQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.0.320.320a/123628225_420153552727070_466439280029425237_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=K9L9XZkENx4AX-jWDaF&tp=1&oh=51068db2182386d91dc6601bf682492c&oe=5FF373FB&ig_cache_key=MjQzNzEzMDk3MDc2NjEwMzQ3NQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.0.320.320a/123628225_420153552727070_466439280029425237_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=K9L9XZkENx4AX-jWDaF&tp=1&oh=51068db2182386d91dc6601bf682492c&oe=5FF373FB&ig_cache_key=MjQzNzEzMDk3MDc2NjEwMzQ3NQ%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.0.320.320a/123628225_420153552727070_466439280029425237_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=K9L9XZkENx4AX-jWDaF&tp=1&oh=51068db2182386d91dc6601bf682492c&oe=5FF373FB&ig_cache_key=MjQzNzEzMDk3MDc2NjEwMzQ3NQ%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.0.320.320a/123628225_420153552727070_466439280029425237_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=K9L9XZkENx4AX-jWDaF&tp=1&oh=51068db2182386d91dc6601bf682492c&oe=5FF373FB&ig_cache_key=MjQzNzEzMDk3MDc2NjEwMzQ3NQ%3D%3D.2.c",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/123628225_420153552727070_466439280029425237_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=K9L9XZkENx4AX-jWDaF&tp=1&oh=61ed2eb064d8ed320772e6cbd2be424c&oe=5FF30AD5&ig_cache_key=MjQzNzEzMDk3MDc2NjEwMzQ3NQ%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 654,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/123600952_867579677384304_2128653195193026024_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=6Ts61Qs5rGwAX_c1_Pu&tp=1&oh=86b3fe7170b4105485dde8eb5864b9d4&oe=5FF1B782&ig_cache_key=MjQzNTU2NDY2NTQyMzI4ODM0Mw%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 16
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "The brightest Nebula in the Sky\n\nMessier 42 -Orion Nebula along with Messier 43\n\nAll shot on Canon 700D\n\nLights 1x283 ISO400\nDarks 1x30 ISO400\nBias 1/4000x30 ISO400\nFlats x30 ISO400\n\nNow its the Fourth time I have tried to capture Orion Nebula thia time the seeing was better than the last one so i managed to pull a bit more detail and also I captured about 600 frames in which 317 get failed in the stacking process.\n\nI am still improving\n\n5-11-2020\nBortle 8-9 Sky\n-Karachi, Pakistan\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #backyardastronomy #backyardastrophotography #nebula #orion #messier #deepsky #deepskyphotography #m42 #orionnebula #sequator #astroenthusiast #amatureastronomy #amatureastrophotography #instagram #instagood #celestronuniverse #celestronoptics #canonphotography #canon700d"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2435564665423288343",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CHM3Si2DFgX",
+            "tags": [
+                "orionnebula",
+                "backyardastrophotography",
+                "amatureastronomy",
+                "celestronoptics",
+                "deepskyphotography",
+                "celestronuniverse",
+                "astro",
+                "m42",
+                "sequator",
+                "orion",
+                "instagood",
+                "amatureastrophotography",
+                "canon700d",
+                "canonphotography",
+                "astroenthusiast",
+                "nebula",
+                "instagram",
+                "deepsky",
+                "backyardastronomy",
+                "messier",
+                "astronomy"
+            ],
+            "taken_at_timestamp": 1604561955,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c284.0.872.872a/s150x150/123600952_867579677384304_2128653195193026024_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=6Ts61Qs5rGwAX_c1_Pu&tp=1&oh=b0e33bd52f6f80f72a17503a53cfd9c3&oe=5FF2DC0B&ig_cache_key=MjQzNTU2NDY2NTQyMzI4ODM0Mw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c284.0.872.872a/s240x240/123600952_867579677384304_2128653195193026024_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=6Ts61Qs5rGwAX_c1_Pu&tp=1&oh=e5230d96baa4a5948d5706e4ba6dd576&oe=5FF21F0D&ig_cache_key=MjQzNTU2NDY2NTQyMzI4ODM0Mw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c284.0.872.872a/s320x320/123600952_867579677384304_2128653195193026024_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=6Ts61Qs5rGwAX_c1_Pu&tp=1&oh=a0897fcdb1698946b005b5fa850ed616&oe=5FF361F3&ig_cache_key=MjQzNTU2NDY2NTQyMzI4ODM0Mw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c284.0.872.872a/s480x480/123600952_867579677384304_2128653195193026024_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=6Ts61Qs5rGwAX_c1_Pu&tp=1&oh=52cb23d796a66e1288db166d394a0418&oe=5FF25BB6&ig_cache_key=MjQzNTU2NDY2NTQyMzI4ODM0Mw%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c284.0.872.872a/s640x640/123600952_867579677384304_2128653195193026024_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=6Ts61Qs5rGwAX_c1_Pu&tp=1&oh=400a36a9abeb0cb898adae29ee80defc&oe=5FF0CB4E&ig_cache_key=MjQzNTU2NDY2NTQyMzI4ODM0Mw%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c284.0.872.872a/s640x640/123600952_867579677384304_2128653195193026024_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=6Ts61Qs5rGwAX_c1_Pu&tp=1&oh=400a36a9abeb0cb898adae29ee80defc&oe=5FF0CB4E&ig_cache_key=MjQzNTU2NDY2NTQyMzI4ODM0Mw%3D%3D.2.c",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/123600952_867579677384304_2128653195193026024_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=6Ts61Qs5rGwAX_c1_Pu&tp=1&oh=86b3fe7170b4105485dde8eb5864b9d4&oe=5FF1B782&ig_cache_key=MjQzNTU2NDY2NTQyMzI4ODM0Mw%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 320,
+                "width": 320
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/123276021_1495213174203779_7768266173041807240_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=cQEcYqu4fEMAX9Jw2wO&tp=1&oh=56825d0aa3cb8d8ee68580d034ad2caf&oe=5FF1FE84&ig_cache_key=MjQzNDA3NTU1NTMwNzM0NzEwMg%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 18
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "I tried imaging Mars the third time with some fix in my telescope as I made it myself so there were issues but i managed to resolved them after opposition and get this shot\n\nShot on POCO X3 in 4K\n50% best frames stacked out of 2000frames\n\nPre processed in PIPP\nStacked in AutoStackertt3\nWavelets in Registax6\nPost Processed in Snapseed Mobile\n\n24-10-2020\n-Karachi, Pakistan\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #backyardastronomy #backyardastrophotography #planet #planetaryphotography #mars #autostacker #autostackert #pipp #registax #registax6 #solarsystem #cosmos #marsopposition #astroenthusiast #amatureastronomy #amatureastrophotography #instagram #instagood #celestronuniverse #celestronoptics #mobilephotography #mobileastrophotography #shotonpoco #shotonpocox3 #poco #pocox3"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2434075555307347102",
+            "is_video": false,
+            "media_preview": "ACoq5miiigAooooAKKKKACiiigCwFj8vJPzfX+npVeiigAooooAKKKWgBMUuKKKAEooooA//2Q==",
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CHHktI-jlye",
+            "tags": [
+                "backyardastrophotography",
+                "planetaryphotography",
+                "pocox3",
+                "autostacker",
+                "marsopposition",
+                "cosmos",
+                "solarsystem",
+                "autostackert",
+                "shotonpoco",
+                "registax6",
+                "amatureastronomy",
+                "celestronoptics",
+                "celestronuniverse",
+                "astro",
+                "pipp",
+                "mars",
+                "mobilephotography",
+                "instagood",
+                "mobileastrophotography",
+                "amatureastrophotography",
+                "shotonpocox3",
+                "planet",
+                "astroenthusiast",
+                "instagram",
+                "poco",
+                "backyardastronomy",
+                "registax",
+                "astronomy"
+            ],
+            "taken_at_timestamp": 1604384439,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/123276021_1495213174203779_7768266173041807240_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=cQEcYqu4fEMAX9Jw2wO&tp=1&oh=ef31e37ed6e7cf49e248d4d5f3207ef2&oe=5FF472F0&ig_cache_key=MjQzNDA3NTU1NTMwNzM0NzEwMg%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/123276021_1495213174203779_7768266173041807240_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=cQEcYqu4fEMAX9Jw2wO&tp=1&oh=0a1ca8f55d069fb2b4c759b7c1323bc2&oe=5FF33228&ig_cache_key=MjQzNDA3NTU1NTMwNzM0NzEwMg%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/123276021_1495213174203779_7768266173041807240_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=cQEcYqu4fEMAX9Jw2wO&tp=1&oh=56825d0aa3cb8d8ee68580d034ad2caf&oe=5FF1FE84&ig_cache_key=MjQzNDA3NTU1NTMwNzM0NzEwMg%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/123276021_1495213174203779_7768266173041807240_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=cQEcYqu4fEMAX9Jw2wO&tp=1&oh=56825d0aa3cb8d8ee68580d034ad2caf&oe=5FF1FE84&ig_cache_key=MjQzNDA3NTU1NTMwNzM0NzEwMg%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/123276021_1495213174203779_7768266173041807240_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=cQEcYqu4fEMAX9Jw2wO&tp=1&oh=56825d0aa3cb8d8ee68580d034ad2caf&oe=5FF1FE84&ig_cache_key=MjQzNDA3NTU1NTMwNzM0NzEwMg%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/123276021_1495213174203779_7768266173041807240_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=cQEcYqu4fEMAX9Jw2wO&tp=1&oh=56825d0aa3cb8d8ee68580d034ad2caf&oe=5FF1FE84&ig_cache_key=MjQzNDA3NTU1NTMwNzM0NzEwMg%3D%3D.2",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/123276021_1495213174203779_7768266173041807240_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=cQEcYqu4fEMAX9Jw2wO&tp=1&oh=56825d0aa3cb8d8ee68580d034ad2caf&oe=5FF1FE84&ig_cache_key=MjQzNDA3NTU1NTMwNzM0NzEwMg%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        },
+        {
+            "__typename": "GraphImage",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 607,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/123146962_396611728139693_8008432100276979271_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1Q2Gt4X_-o0AX-kWnT5&tp=1&oh=3aec7305cdfbe4dcffc5fff84e8d2ce1&oe=5FF21BE3&ig_cache_key=MjQzMjk1NTE0ODIxMDc4ODEyOA%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 25
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "The brightest Nebula in the Sky\n\nMessier 42 -Orion Nebula\n\nAll shot on Canon 700D\n\nLights 1.3x146 ISO800\nDarks 1.3x30 ISO800\nBias 1/4000x30 ISO800\nFlats x30 ISO800\n\nHad a but trouble due to the full moon and the flare is caused by it. But still i was able to aligned and stacked in Sequator as I was having trouble in Deep Sky Stacker used the light pollution filter in Sequator and then stretched it in Photoshop\n\n31-10-2020\n-Karachi, Pakistan\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #backyardastronomy #backyardastrophotography #nebula #orion #messier #deepsky #deepskyphotography #m42 #orionnebula #sequator #astroenthusiast #amatureastronomy #amatureastrophotography #instagram #instagood #celestronuniverse #celestronoptics #canonphotography #canon700d"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 3
+            },
+            "gating_info": null,
+            "id": "2432955148210788128",
+            "is_video": false,
+            "media_preview": "ACoXygOKYRU3GBj0phFBqQEVGauEoYz13g/gRVM0EsZkjpSbj607Hf0pCBnjpQSaCUPRRQalZjUZNFFBAyjFFFBJ/9k=",
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CHDl9Ejj9cg",
+            "tags": [
+                "orionnebula",
+                "backyardastrophotography",
+                "amatureastronomy",
+                "celestronoptics",
+                "deepskyphotography",
+                "celestronuniverse",
+                "astro",
+                "m42",
+                "sequator",
+                "orion",
+                "instagood",
+                "amatureastrophotography",
+                "canon700d",
+                "canonphotography",
+                "astroenthusiast",
+                "nebula",
+                "instagram",
+                "deepsky",
+                "backyardastronomy",
+                "messier",
+                "astronomy"
+            ],
+            "taken_at_timestamp": 1604250876,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c315.0.810.810a/s150x150/123146962_396611728139693_8008432100276979271_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1Q2Gt4X_-o0AX-kWnT5&tp=1&oh=b9962a41ea64e0f1c12ae9c24ece8f7d&oe=5FF3BBC6&ig_cache_key=MjQzMjk1NTE0ODIxMDc4ODEyOA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c315.0.810.810a/s240x240/123146962_396611728139693_8008432100276979271_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1Q2Gt4X_-o0AX-kWnT5&tp=1&oh=21180cf6cf38538decefd4ab5dae3684&oe=5FF35444&ig_cache_key=MjQzMjk1NTE0ODIxMDc4ODEyOA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c315.0.810.810a/s320x320/123146962_396611728139693_8008432100276979271_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1Q2Gt4X_-o0AX-kWnT5&tp=1&oh=73e68f3fa43321c147b6d59697361d77&oe=5FF2A3BE&ig_cache_key=MjQzMjk1NTE0ODIxMDc4ODEyOA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/c315.0.810.810a/s480x480/123146962_396611728139693_8008432100276979271_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1Q2Gt4X_-o0AX-kWnT5&tp=1&oh=d7916a663638dfcc7be87c044e0893d2&oe=5FF0DD7B&ig_cache_key=MjQzMjk1NTE0ODIxMDc4ODEyOA%3D%3D.2.c"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/123146962_396611728139693_8008432100276979271_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1Q2Gt4X_-o0AX-kWnT5&tp=1&oh=0818e7d4083910d4b893a2d8d7396eb9&oe=5FF2AC83&ig_cache_key=MjQzMjk1NTE0ODIxMDc4ODEyOA%3D%3D.2.c"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/123146962_396611728139693_8008432100276979271_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1Q2Gt4X_-o0AX-kWnT5&tp=1&oh=0818e7d4083910d4b893a2d8d7396eb9&oe=5FF2AC83&ig_cache_key=MjQzMjk1NTE0ODIxMDc4ODEyOA%3D%3D.2.c",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/123146962_396611728139693_8008432100276979271_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1Q2Gt4X_-o0AX-kWnT5&tp=1&oh=3aec7305cdfbe4dcffc5fff84e8d2ce1&oe=5FF21BE3&ig_cache_key=MjQzMjk1NTE0ODIxMDc4ODEyOA%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        },
+        {
+            "__typename": "GraphSidecar",
+            "comments_disabled": false,
+            "dimensions": {
+                "height": 1080,
+                "width": 1080
+            },
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/123508784_438905543760429_2641843810697698253_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=WFsA0dpIHboAX_mR76o&se=8&tp=1&oh=a3820900d8ca044521a400dcdccd9bdb&oe=5FF1A967&ig_cache_key=MjQzMjgyNjk4OTMzMTAzOTAxNg%3D%3D.2",
+            "edge_media_preview_like": {
+                "count": 16
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "Had a wonderful night at The Kastadrome\nObserved Jupiter, Mars, Saturn and Moon through a whopping 12 inch Ritchey Chrietien Telescope\n.\n.\n.\n.\n.\n.\n.\n.\n#astro #astronomy #observatory #telescope #reflectingtelescope #astronomyenthusiast #backyardastronomy #moon #luna #fullmoon #moonshine #sunshine #instagram #instagood #picoftheday"
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_comment": {
+                "count": 0
+            },
+            "gating_info": null,
+            "id": "2432826994188089992",
+            "is_video": false,
+            "media_preview": null,
+            "owner": {
+                "id": "44190529181"
+            },
+            "shortcode": "CHDI0L0j_qI",
+            "tags": [
+                "luna",
+                "astronomyenthusiast",
+                "observatory",
+                "fullmoon",
+                "instagram",
+                "picoftheday",
+                "sunshine",
+                "moon",
+                "telescope",
+                "reflectingtelescope",
+                "moonshine",
+                "instagood",
+                "astro",
+                "backyardastronomy",
+                "astronomy"
+            ],
+            "taken_at_timestamp": 1604235599,
+            "thumbnail_resources": [
+                {
+                    "config_height": 150,
+                    "config_width": 150,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/123508784_438905543760429_2641843810697698253_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=WFsA0dpIHboAX_mR76o&tp=1&oh=4646305f5d2bf477542b4cc572173037&oe=5FF1F15A&ig_cache_key=MjQzMjgyNjk4OTMzMTAzOTAxNg%3D%3D.2"
+                },
+                {
+                    "config_height": 240,
+                    "config_width": 240,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/123508784_438905543760429_2641843810697698253_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=WFsA0dpIHboAX_mR76o&tp=1&oh=a3e1ce3d38b1622b65daf0959d780099&oe=5FF17360&ig_cache_key=MjQzMjgyNjk4OTMzMTAzOTAxNg%3D%3D.2"
+                },
+                {
+                    "config_height": 320,
+                    "config_width": 320,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/123508784_438905543760429_2641843810697698253_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=WFsA0dpIHboAX_mR76o&tp=1&oh=43abd13beaff0f4990685e96f79c7e6d&oe=5FF10AA2&ig_cache_key=MjQzMjgyNjk4OTMzMTAzOTAxNg%3D%3D.2"
+                },
+                {
+                    "config_height": 480,
+                    "config_width": 480,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/123508784_438905543760429_2641843810697698253_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=WFsA0dpIHboAX_mR76o&tp=1&oh=8294b9c64010255520aecb1357a517ae&oe=5FF15AE7&ig_cache_key=MjQzMjgyNjk4OTMzMTAzOTAxNg%3D%3D.2"
+                },
+                {
+                    "config_height": 640,
+                    "config_width": 640,
+                    "src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/123508784_438905543760429_2641843810697698253_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=WFsA0dpIHboAX_mR76o&tp=1&oh=30783e6f777941c11efcde9d225dfea6&oe=5FF1B5DD&ig_cache_key=MjQzMjgyNjk4OTMzMTAzOTAxNg%3D%3D.2"
+                }
+            ],
+            "thumbnail_src": "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/123508784_438905543760429_2641843810697698253_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=WFsA0dpIHboAX_mR76o&tp=1&oh=30783e6f777941c11efcde9d225dfea6&oe=5FF1B5DD&ig_cache_key=MjQzMjgyNjk4OTMzMTAzOTAxNg%3D%3D.2",
+            "urls": [
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/123508784_438905543760429_2641843810697698253_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=WFsA0dpIHboAX_mR76o&se=8&tp=1&oh=a3820900d8ca044521a400dcdccd9bdb&oe=5FF1A967&ig_cache_key=MjQzMjgyNjk4OTMzMTAzOTAxNg%3D%3D.2",
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/123286311_808364063065397_4102743245064064060_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=WWk_tF9o520AX_fDM6k&tp=1&oh=fa26151a07970ff2e1b675cc3762aead&oe=5FF29DE3&ig_cache_key=MjQzMjgyNjk4OTM0NzYyMDM0OA%3D%3D.2",
+                "https://instagram.fkhi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/123141554_425732798419990_8000634082278166602_n.jpg?_nc_ht=instagram.fkhi1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=j6XZCOaRshsAX9IWBpH&tp=1&oh=4f049554b51cb59ee6022ed37c86eef9&oe=5FF1E115&ig_cache_key=MjQzMjgyNjk4OTM1NjA1ODkyOA%3D%3D.2"
+            ],
+            "username": "astrobyhuz"
+        }
+    ]
+}
