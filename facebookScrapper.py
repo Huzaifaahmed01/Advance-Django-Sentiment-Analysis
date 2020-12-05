@@ -3,8 +3,8 @@ import csv
 
 with open('facebookScrapper.csv', 'a+') as csvfile:
     csvwriter = csv.DictWriter(csvfile, fieldnames=['POSTS'])
-    csvwriter.writeheader()
+    # csvwriter.writeheader()
     result={'POSTS':''}
     for post in get_posts('ImranKhanOfficial', pages=1):
-        result['POSTS'] = post['text']+'\n'
+        result['POSTS'] = post['text']+'END POST'
         csvwriter.writerow(result)
