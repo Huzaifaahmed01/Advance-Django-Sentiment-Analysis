@@ -7,7 +7,7 @@ dfFinal = pd.DataFrame(columns=["text","react"])
 df_react = df[['react_angry','react_haha','react_love','react_sad','react_wow']]
 df_react = df_react.values.tolist()
 
-dfFinal.loc[:, 'text'] = df['message']
+dfFinal.loc[:, 'text'] = df['message'].apply(lambda x: str(x).replace('\n','. ').replace('\t',' '))
 
 def maxReact(x):
     dataEmotion = ['angry','joyful','lovely','sorrowful','surprising']
