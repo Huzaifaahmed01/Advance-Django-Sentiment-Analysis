@@ -1,0 +1,103 @@
+<h2>{{result}}</h2>
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Emotions </title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+</head>
+
+<body>
+    <h1>Charts, Charts, Charts</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-6 chart">
+                <canvas id="myChart" width="500" height="400"></canvas>
+            </div>
+            <div class="col-6 chart">
+                <canvas id="myChart2" width="500" height="400"></canvas>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6 chart">
+                <canvas id="myChart" width="500" height="400"></canvas>
+            </div>
+            <div class="col-6 chart">
+                <canvas id="myChart" width="500" height="400"></canvas>
+            </div>
+        </div>
+    </div>
+    <!-- <script src="main.js"></script> -->
+    <style>
+        .chart {
+            text-align: center;
+            margin: auto;
+        }
+        
+        .row {
+            margin-bottom: 150px;
+        }
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 80px;
+        }
+    </style>
+    <script>
+        let labels1 = ['YES', 'YES BUT IN GREEN'];
+        let data1 = [69, 31];
+        let colors1 = ['#49A9EA', '#36CAAB'];
+
+        let myDoughnutChart = document.getElementById("myChart").getContext('2d');
+
+        let chart1 = new Chart(myDoughnutChart, {
+            type: 'doughnut',
+            data: {
+                labels: ['YES', 'YES BUT IN GREEN'],
+                datasets: [{
+                    data: [69, 31],
+                    backgroundColor: ['#49A9EA', '#36CAAB']
+                }]
+            },
+            options: {
+                title: {
+                    text: "Do you like doughnuts?",
+                    display: true
+                }
+            }
+        });
+
+        let labels2 = ['American Airlines Group', 'Ryanair', 'China Southern Airlines', 'Lufthansa Group'];
+        let data2 = [199.6, 130.3, 126.3, 130];
+        let colors2 = ['#49A9EA', '#36CAAB', '#34495E', '#B370CF'];
+
+        let myChart2 = document.getElementById("myChart2").getContext('2d');
+
+        let chart2 = new Chart(myChart2, {
+            type: 'bar',
+            data: {
+                labels: labels2,
+                datasets: [{
+                    data: data2,
+                    backgroundColor: colors2
+                }]
+            },
+            options: {
+                title: {
+                    text: "Number of passengers carried in 2017 (in mio.)",
+                    display: true
+                },
+                legend: {
+                    display: false
+                }
+            }
+        });
+    </script>
+
+</body>
+
+</html>
