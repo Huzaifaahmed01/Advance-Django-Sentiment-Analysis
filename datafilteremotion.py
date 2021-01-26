@@ -10,7 +10,7 @@ df_react = df_react.values.tolist()
 dfFinal.loc[:, 'text'] = df['message'].apply(lambda x: str(x).replace('\n','. ').replace('\t',' '))
 
 def maxReact(x):
-    dataEmotion = ['angry','joyful','lovely','sorrowful','surprising']
+        dataEmotion = ['angry','joyful','lovely','sorrowful','surprising']
     a = 0
     for i in x:
         if i > a:
@@ -28,3 +28,6 @@ reactArray = np.array(listEmotions)
 dfFinal.loc[:, 'react'] = reactArray
 
 dfFinal.to_csv('datasetFinal.csv', index=False)
+
+dfFinal['text'].to_csv('reveiws.txt', header=None, index=None, mode='a')
+dfFinal['react'].to_csv('labels.txt', header=None, index=None, mode='a')
