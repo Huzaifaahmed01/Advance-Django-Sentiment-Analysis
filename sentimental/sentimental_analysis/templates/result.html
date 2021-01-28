@@ -1,4 +1,5 @@
-<h2>{{result}}</h2>
+<!-- <h2>{{result}}</h2>
+<h2>{{ data|safe }}</h2> -->
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -8,93 +9,195 @@
     <title>Emotions </title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script> -->
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
 </head>
 
 <body>
-    <h1>Charts, Charts, Charts</h1>
-    <div class="container">
-        <div class="row">
-            <div class="col-6 chart">
-                <canvas id="myChart" width="500" height="400"></canvas>
-            </div>
-            <div class="col-6 chart">
-                <canvas id="myChart2" width="500" height="400"></canvas>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-6 chart">
-                <canvas id="myChart" width="500" height="400"></canvas>
-            </div>
-            <div class="col-6 chart">
-                <canvas id="myChart" width="500" height="400"></canvas>
-            </div>
-        </div>
-    </div>
-    <!-- <script src="main.js"></script> -->
+    <!-- ['empty', 'sadness', 'enthusiasm', 'neutral',
+            'worry', 'surprise', 'love', 'fun', 'hate', 'happiness',
+            'boredom', 'relief', 'anger'] -->
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Emotions</th>
+                <th scope="col">Emojis</th>
+                <th scope="col">Percentage</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Empty</td>
+                <td>&#128566;</td>
+                <td>@mdo</td>
+            </tr>
+            <tr>
+                <td>Sadness</td>
+                <td>&#128543;</td>
+                <td>@fat</td>
+            </tr>
+            <tr>
+                <td>Enthusiasm</td>
+                <td>&#129321;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Neutral</td>
+                <td>&#128578;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Worry</td>
+                <td>&#128543;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Surprise</td>
+                <td>&#128562;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Love</td>
+                <td>&#128525;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Fun</td>
+                <td>&#128522;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Hate</td>
+                <td>&#128543;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Happiness</td>
+                <td>&#128522;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Boredom</td>
+                <td>&#128580;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Relief</td>
+                <td>&#128524;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Anger</td>
+                <td>&#128545;</td>
+                <td>@twitter</td>
+            </tr>
+
+        </tbody>
+    </table>
+
     <style>
-        .chart {
-            text-align: center;
-            margin: auto;
+        .highcharts-figure,
+        .highcharts-data-table table {
+            min-width: 320px;
+            max-width: 800px;
+            margin: 1em auto;
         }
         
-        .row {
-            margin-bottom: 150px;
+        .highcharts-data-table table {
+            font-family: Verdana, sans-serif;
+            border-collapse: collapse;
+            border: 1px solid #EBEBEB;
+            margin: 10px auto;
+            text-align: center;
+            width: 100%;
+            max-width: 500px;
         }
         
-        h1 {
-            text-align: center;
-            margin-bottom: 80px;
+        .highcharts-data-table caption {
+            padding: 1em 0;
+            font-size: 1.2em;
+            color: #555;
+        }
+        
+        .highcharts-data-table th {
+            font-weight: 600;
+            padding: 0.5em;
+        }
+        
+        .highcharts-data-table td,
+        .highcharts-data-table th,
+        .highcharts-data-table caption {
+            padding: 0.5em;
+        }
+        
+        .highcharts-data-table thead tr,
+        .highcharts-data-table tr:nth-child(even) {
+            background: #f8f8f8;
+        }
+        
+        .highcharts-data-table tr:hover {
+            background: #f1f7ff;
+        }
+        
+        input[type="number"] {
+            min-width: 50px;
         }
     </style>
+
+    <figure class="highcharts-figure">
+        <div id="container"></div>
+        <p class="highcharts-description">
+            Pie charts are very popular for showing a compact overview of a composition or comparison. While they can be harder to read than column charts, they remain a popular choice for small datasets.
+        </p>
+    </figure>
+    <meta id="my-data" data-name="{{data}}">
+
+    <p id="data" hidden>{{ data }} </p>
+
     <script>
-        let labels1 = ['YES', 'YES BUT IN GREEN'];
-        let data1 = [69, 31];
-        let colors1 = ['#49A9EA', '#36CAAB'];
+        // var djangoData = $('#my-data').data();
+        var data = window.document.getElementById("data").innerHTML;
+        var data1 = JSON.parse(data);
 
-        let myDoughnutChart = document.getElementById("myChart").getContext('2d');
-
-        let chart1 = new Chart(myDoughnutChart, {
-            type: 'doughnut',
-            data: {
-                labels: ['YES', 'YES BUT IN GREEN'],
-                datasets: [{
-                    data: [69, 31],
-                    backgroundColor: ['#49A9EA', '#36CAAB']
-                }]
+        console.log(data1);
+        Highcharts.chart('container', {
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie'
             },
-            options: {
-                title: {
-                    text: "Do you like doughnuts?",
-                    display: true
-                }
-            }
-        });
-
-        let labels2 = ['American Airlines Group', 'Ryanair', 'China Southern Airlines', 'Lufthansa Group'];
-        let data2 = [199.6, 130.3, 126.3, 130];
-        let colors2 = ['#49A9EA', '#36CAAB', '#34495E', '#B370CF'];
-
-        let myChart2 = document.getElementById("myChart2").getContext('2d');
-
-        let chart2 = new Chart(myChart2, {
-            type: 'bar',
-            data: {
-                labels: labels2,
-                datasets: [{
-                    data: data2,
-                    backgroundColor: colors2
-                }]
+            title: {
+                text: 'Browser market shares in January, 2018'
             },
-            options: {
-                title: {
-                    text: "Number of passengers carried in 2017 (in mio.)",
-                    display: true
-                },
-                legend: {
-                    display: false
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            accessibility: {
+                point: {
+                    valueSuffix: '%'
                 }
-            }
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    dataLabels: {
+                        enabled: true,
+                        format: '<b>{point.name}</b>: {point.percentage:.1f} %'
+                    }
+                }
+            },
+            series: [{
+                name: 'Brands',
+                colorByPoint: true,
+                data: data1
+
+            }]
         });
     </script>
 

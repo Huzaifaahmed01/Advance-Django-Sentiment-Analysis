@@ -1,7 +1,8 @@
 from django.forms import ModelForm
 from .models import TextArea
+from django import forms
 
 class InputForm(ModelForm):
     class Meta:
         model = TextArea
-        fields = "__all__"
+        fields = '__all__'

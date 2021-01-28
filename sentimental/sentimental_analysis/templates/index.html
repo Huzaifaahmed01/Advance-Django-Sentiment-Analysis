@@ -39,26 +39,28 @@
         <div class="jumbotron">
             <h1 class="display-6 text-center">Sentalyze</h1>
             <p class="lead text-center">A free and fun way to analyze your sentiments</p>
-            <hr class="my-4">
+            <!-- <hr class="my-4"> -->
         </div>
     </div>
 
     <div class="login" style=" display: block; margin:0 auto 0 auto;">
         <h1 class="change" style=" display: block; margin:0 auto 0 auto; text-align:center;">Predict your Sentiment</h1>
         <br>
-        <form method="POST" action="{% url 'result' %}" style="  display: block; margin:0 auto 0 auto; text-align:center;">
-            {% csrf_token %} {% if error %}
+        <div class="form-group">
+            <form method="POST" action="{% url 'result' %}" style="  display: block; margin:0 auto 0 auto; text-align:center;">
+                {% csrf_token %} {% if error %}
 
-            <div style="color:red;">
-                {{error}}
-            </div>
-            {% endif %} {{ form.text }}
-            <button style=" display: block; margin:0 auto 0 auto;" type="submit" class="btn btn-success">Predict</button>
-            <br>
+                <div style="color:red;">
+                    {{error}}
+                </div>
+                {% endif %} {{ form.text }}
+                <br>
+                <button style=" display: block; margin:0 auto 0 auto;" type="submit" class="btn btn-success">Predict</button>
+                <br>
 
-        </form>
+            </form>
+        </div>
     </div>
-
     <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>

@@ -3,6 +3,7 @@ from django.http import HttpResponse
 from .forms import InputForm
 from django.core.exceptions import ValidationError
 from django import forms
+import json
 # Create your views here.
 def view(request):
 
@@ -26,13 +27,48 @@ def view(request):
 
 def result(request):
     form = InputForm()
-    data = [76,24]
-    # t = json.dumps(data_list)
+    
+    # data_list = {
+    #  "labels":  ['YES', 'NO', 'NEVER'] ,
+    #  "data" : [70, 20, 10]
+    # } 
+    # dataJSON  = json.dumps(data_list)
+    
+    # data_list2 = {
+    #     'hello': 'World', 
+    #     'geeks': 'forgeeks', 
+    #     'ABC': 123, 
+    #     456: 'abc', 
+    #     14000605: 1,
+    #     "labels":  ['YES', 'NO', 'NEVER'] ,
+    #     "data" : [70, 20, 10]
+    # } 
+    # dataJSON  = json.dumps(data_list2)
+    data = [{'name': 'Positive',
+                    'y': 80,
+                    'sliced': True,
+                    'selected': True
+                }, {
+                    'name': 'Negative',
+                    'y': 20
+                }]
 
+    dataJSON = json.dumps(data)
+
+    labels =  ['YES', 'NO', 'NEVER'] 
+    data = [70, 20, 10]
+    
     if request.method == "POST" :
         result = request.POST.get("text")
         if result.isnumeric():
             error_msg="Enter a text"
 
             return render(request,'index.html',{'error':error_msg, 'form': form})
-    return render(request,"result.html",context={'result': result }, {'data': data})    
+    
+    # return render(request,"result.html" ,context={'result': result, 'data': dataJSON})    
+    # return render(request,"result.html" ,context={'result': result, 'data': data, 'labels': labels})
+    return render(request, 'result.html', {
+        'labels': labels,
+        'data': dataJSON,
+        'result': result,
+    })   
