@@ -114,4 +114,6 @@ def modelPosNeg():
     net.load_state_dict(torch.load('pos_neg_netFinal.pt'))
 
     return net
+
+
 # Create your views here.

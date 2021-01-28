@@ -4,7 +4,7 @@ from django.core.validators import MinLengthValidator
 from django.utils.translation import gettext_lazy as _
 
 def validate_numeric(value):
-    if value is isnumeric():
+    if value.isnumeric():
         raise ValidationError(
             _('Enter a Text'),
             params={'value': value},
