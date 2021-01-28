@@ -21,5 +21,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('index',views.view,name="view"),
     path('result',views.result,name="result"),
-    
+    path('feedback',views.feedback,name="feedback"),
+
 ]

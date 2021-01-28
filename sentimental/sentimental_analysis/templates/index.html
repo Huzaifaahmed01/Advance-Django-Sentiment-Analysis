@@ -48,12 +48,8 @@
         <br>
         <div class="form-group">
             <form method="POST" action="{% url 'result' %}" style="  display: block; margin:0 auto 0 auto; text-align:center;">
-                {% csrf_token %} {% if error %}
-
-                <div style="color:red;">
-                    {{error}}
-                </div>
-                {% endif %} {{ form.text }}
+                {% csrf_token %}
+                 {{ form.residentialAddress }}
                 <br>
                 <button style=" display: block; margin:0 auto 0 auto;" type="submit" class="btn btn-success">Predict</button>
                 <br>

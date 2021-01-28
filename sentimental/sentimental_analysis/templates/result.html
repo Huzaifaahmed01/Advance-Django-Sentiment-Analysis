@@ -152,6 +152,55 @@
     </table>
 
     <style>
+
+    .select-box {
+      cursor: pointer;
+      position : relative;
+      max-width:  20em;
+      margin: 5em auto;
+      width: 100%;
+    }
+
+    .select,
+    .label {
+      color: #414141;
+      display: block;
+      font: 400 17px/2em 'Source Sans Pro', sans-serif;
+    }
+
+    .select {
+      width: 100%;
+      position: absolute;
+      top: 0;
+      padding: 5px 0;
+      height: 40px;
+      opacity: 0;
+      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+      background: none transparent;
+      border: 0 none;
+    }
+    .select-box1 {
+      background: #ececec;
+    }
+
+    .label {
+      position: relative;
+      padding: 5px 10px;
+      cursor: pointer;
+    }
+    .open .label::after {
+       content: "▲";
+    }
+    .label::after {
+      content: "▼";
+      font-size: 12px;
+      position: absolute;
+      right: 0;
+      top: 0;
+      padding: 5px 15px;
+      border-left: 5px solid #fff;
+    }
+
         .highcharts-figure,
         .highcharts-data-table table {
             min-width: 320px;
@@ -252,7 +301,63 @@
             }]
         });
     </script>
+    <form style=""  class="" action="{% url 'feedback'%}" method="post">
 
+
+
+{%  csrf_token %}
+
+
+
+          <h1 style="font-size:70px; text-align:center; margin:0 auto 0 auto;"> Feedback Form </h1>
+          <br>
+          <br>
+
+          <h2 style="font-size:50px;">Sentiment Analysis</h2>
+
+
+      <div class="select-box">
+          <label for="select-box1" class="label select-box1"><span class="label-desc">Select</span> </label>
+          <select id="sentiment" name="sentiment" class="select">
+
+                    <option value="pos">Postive</option>
+                    <option value="neg">Negative</option>
+
+          </select>
+
+
+    </div>
+
+        <h2 style="font-size:50px;">Emotions Analysis</h2>
+
+
+          <div class="select-box">
+        <label for="select-box1" class="label select-box1"><span class="label-desc">Select</span> </label>
+        <select id="emotions" name="emotions" class="select">
+
+            <option value="emp">Empty</option>
+            <option value="sad">Sadness</option>
+            <option value="ent">Enthusiasm</option>
+            <option value="net">Neutral</option>
+            <option value="wor">Worry</option>
+            <option value="sur">Surprise</option>
+            <option value="lov">Love</option>
+            <option value="fun">Fun</option>
+            <option value="hat">Hate</option>
+            <option value="hap">Hapiness</option>
+            <option value="bor">Boredom</option>
+            <option value="rel">Relief</option>
+            <option value="ang">Anger</option>
+
+
+          </select>
+
+        </div>
+
+    <div>  <button type="submit" style=" font-weight:bold;display:block; border-radius:18px; border: solid 2px ##0000FF; margin:0 auto 0 auto; padding:10px 30px; background:transparent;"> <strong>Submit</strong></button>
+    </div>
+
+        </form>
 </body>
 
 </html>

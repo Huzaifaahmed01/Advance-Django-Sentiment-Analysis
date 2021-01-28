@@ -1,10 +1,13 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 from .forms import InputForm
-from django.core.exceptions import ValidationError
-from django import forms
+
+from .models import sentimentReview,sentimentText
 import json
+from .forms import InputForm
 # Create your views here.
+
+
 def view(request):
 
     form = InputForm()
@@ -23,10 +26,9 @@ def view(request):
     #         return render(request,"result.html",context={"result":result})
     # # return HttpResponse("Hello World")
     return render(request,"index.html",context={'form': form })
-
+sentimenttext=0;
 
 def result(request):
-    form = InputForm()
 
     # data_list = {
     #  "labels":  ['YES', 'NO', 'NEVER'] ,
@@ -59,12 +61,20 @@ def result(request):
     data = [70, 20, 10]
     emotion="sadness"
     if request.method == "POST" :
-        result = request.POST.get("text")
+        result = request.POST.get("residentialAddress")
         if result.isnumeric():
             error_msg="Enter a text"
 
 
             return render(request,'index.html',{'error':error_msg, 'form': form})
+        else:
+            global sentimenttext
+            sentimenttext=sentimentText(residentialAddress=result)
+
+
+            sentimenttext.save()
+
+
 
     # return render(request,"result.html" ,context={'result': result, 'data': dataJSON})
     # return render(request,"result.html" ,context={'result': result, 'data': data, 'labels': labels})
@@ -73,3 +83,11 @@ def result(request):
         'data': dataJSON,
         'result': result,'emotion':emotion
     })
+def feedback(request):
+    if request.method=="POST":
+        sentiment=request.POST.get("sentiment")
+        emotions=request.POST.get("emotions")
+
+        sr=sentimentReview(sentimentType=sentiment,emotionType=emotions,textReview=sentimenttext)
+        sr.save()
+        return render(request, 'result.html')
