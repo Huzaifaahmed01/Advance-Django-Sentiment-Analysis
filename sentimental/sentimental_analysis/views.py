@@ -8,7 +8,7 @@ import json
 def view(request):
 
     form = InputForm()
-    
+
     # if request.method=="POST":
     #     result=request.POST.get("input_text")
     #     print(result)
@@ -22,27 +22,27 @@ def view(request):
     #     else:
     #         return render(request,"result.html",context={"result":result})
     # # return HttpResponse("Hello World")
-    return render(request,"index.html",context={'form': form })    
-   
+    return render(request,"index.html",context={'form': form })
+
 
 def result(request):
     form = InputForm()
-    
+
     # data_list = {
     #  "labels":  ['YES', 'NO', 'NEVER'] ,
     #  "data" : [70, 20, 10]
-    # } 
+    # }
     # dataJSON  = json.dumps(data_list)
-    
+
     # data_list2 = {
-    #     'hello': 'World', 
-    #     'geeks': 'forgeeks', 
-    #     'ABC': 123, 
-    #     456: 'abc', 
+    #     'hello': 'World',
+    #     'geeks': 'forgeeks',
+    #     'ABC': 123,
+    #     456: 'abc',
     #     14000605: 1,
     #     "labels":  ['YES', 'NO', 'NEVER'] ,
     #     "data" : [70, 20, 10]
-    # } 
+    # }
     # dataJSON  = json.dumps(data_list2)
     data = [{'name': 'Positive',
                     'y': 80,
@@ -55,20 +55,21 @@ def result(request):
 
     dataJSON = json.dumps(data)
 
-    labels =  ['YES', 'NO', 'NEVER'] 
+    labels =  ['YES', 'NO', 'NEVER']
     data = [70, 20, 10]
-    
+    emotion="sadness"
     if request.method == "POST" :
         result = request.POST.get("text")
         if result.isnumeric():
             error_msg="Enter a text"
 
+
             return render(request,'index.html',{'error':error_msg, 'form': form})
-    
-    # return render(request,"result.html" ,context={'result': result, 'data': dataJSON})    
+
+    # return render(request,"result.html" ,context={'result': result, 'data': dataJSON})
     # return render(request,"result.html" ,context={'result': result, 'data': data, 'labels': labels})
     return render(request, 'result.html', {
         'labels': labels,
         'data': dataJSON,
-        'result': result,
-    })   
+        'result': result,'emotion':emotion
+    })
