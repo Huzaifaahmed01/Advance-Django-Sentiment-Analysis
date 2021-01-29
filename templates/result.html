@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+      <meta charset="utf-8">
+      <title>Emotions </title>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+      <script src="https://code.highcharts.com/highcharts.js"></script>
+      <script src="https://code.highcharts.com/modules/exporting.js"></script>
+      <script src="https://code.highcharts.com/modules/export-data.js"></script>
+      <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+</head>
+
+<body>
+    <!-- ['empty', 'sadness', 'enthusiasm', 'neutral',
+            'worry', 'surprise', 'love', 'fun', 'hate', 'happiness',
+            'boredom', 'relief', 'anger'] -->
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Emotions</th>
+                <th scope="col">Emojis</th>
+                <th scope="col">Percentage</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Empty</td>
+                <td>&#128566;</td>
+                <td>@mdo</td>
+            </tr>
+            <tr>
+                <td>Sadness</td>
+                <td>&#128543;</td>
+                <td>@fat</td>
+            </tr>
+            <tr>
+                <td>Enthusiasm</td>
+                <td>&#129321;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Neutral</td>
+                <td>&#128578;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Worry</td>
+                <td>&#128543;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Surprise</td>
+                <td>&#128562;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Love</td>
+                <td>&#128525;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Fun</td>
+                <td>&#128522;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Hate</td>
+                <td>&#128543;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Happiness</td>
+                <td>&#128522;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Boredom</td>
+                <td>&#128580;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Relief</td>
+                <td>&#128524;</td>
+                <td>@twitter</td>
+            </tr>
+            <tr>
+                <td>Anger</td>
+                <td>&#128545;</td>
+                <td>@twitter</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+    <style>
+        .highcharts-figure,
+        .highcharts-data-table table {
+            min-width: 320px;
+            max-width: 800px;
+            margin: 1em auto;
+        }
+
+        .highcharts-data-table table {
+            font-family: Verdana, sans-serif;
+            border-collapse: collapse;
+            border: 1px solid #EBEBEB;
+            margin: 10px auto;
+            text-align: center;
+            width: 100%;
+            max-width: 500px;
+        }
+
+        .highcharts-data-table caption {
+            padding: 1em 0;
+            font-size: 1.2em;
+            color: #555;
+        }
+
+        .highcharts-data-table th {
+            font-weight: 600;
+            padding: 0.5em;
+        }
+
+        .highcharts-data-table td,
+        .highcharts-data-table th,
+        .highcharts-data-table caption {
+            padding: 0.5em;
+        }
+
+        .highcharts-data-table thead tr,
+        .highcharts-data-table tr:nth-child(even) {
+            background: #f8f8f8;
+        }
+
+        .highcharts-data-table tr:hover {
+            background: #f1f7ff;
+        }
+
+        input[type="number"] {
+            min-width: 50px;
+        }
+    </style>
+
+    <figure class="highcharts-figure">
+        <div id="container"></div>
+        <p class="highcharts-description">
+            Pie charts are very popular for showing a compact overview of a composition or comparison. While they can be harder to read than column charts, they remain a popular choice for small datasets.
+        </p>
+    </figure>
+    <meta id="my-data" data-name="{{data}}">
+
+    <p id="data" hidden>{{ data }} </p>
+
+    <script>
+        // var djangoData = $('#my-data').data();
+        var data = window.document.getElementById("data").innerHTML;
+        var data1 = JSON.parse(data);
+
+        console.log(data1);
+        Highcharts.chart('container', {
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie'
+            },
+            title: {
+                text: 'Browser market shares in January, 2018'
+            },
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            accessibility: {
+                point: {
+                    valueSuffix: '%'
+                }
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    dataLabels: {
+                        enabled: true,
+                        format: '<b>{point.name}</b>: {point.percentage:.1f} %'
+                    }
+                }
+            },
+            series: [{
+                name: 'Brands',
+                colorByPoint: true,
+                data: data1
+
+            }]
+        });
+    </script>
+
+</body>
+
+</html>
