@@ -178,8 +178,8 @@
 
 
     <div class="container" style="max-width: 100%;">
-        <div class="row" style="background: #12b99e;  ">
-            <h1 style="text-align: center">Analysis Report</h1>
+        <div class="row" style="background: #12b99e;">
+            <h1 style="margin: 0 auto 0 auto; padding: 15px">Analysis Report</h1>
         </div>
         <div class="row">
             <div class="col-6 chart">
@@ -201,22 +201,27 @@
                     <strong class="inactive">{{ textEmotion }}</strong></p>
             </div>
         </div>
-        <div class="row">
-          <form style=""  class="" action="{% url 'feedback'%}" method="post"> {%  csrf_token %}
-                <h1 style="font-size:40px; text-align:center; margin:0 auto 0 auto;"> Feedback Form </h1>
-                <br>
-                <br>
-                <h2 style="font-size:20px;">Sentiment Analysis</h2>
-            <div class="select-box">
-                 <select id="sentiment" name="sentiment" class="select" style="width:10%; height:4%; border-radius:6px; color:#ffffff; background-color:#ADD8E6;">
+        <div class="row" style="width:100%">
+          <form class="" action="{% url 'feedback'%}" method="post" style="width: 100%"> {%  csrf_token %}
+            <table style="width:100%;  text-align: center">
+              <tr style="margin: 0 auto 0 auto; background: #12b99e;">
+                <h1 style="font-size:40px; width:100%;  text-align: center; background: #12b99e;"> Feedback Form </h1>
+              </tr>
+              <tr>
+                <td>
+                <h2 style="font-size:30px;">Sentiment Analysis</h2>
+              <div class="select-box">
+                 <select id="sentiment" name="sentiment" class="select" style="border-radius:6px; color:#ffffff; background-color:#ADD8E6; width:25%">
                     <option value="" selected hidden>---------</option>
                     <option value="POS">Postive</option>
                     <option value="NEG">Negative</option>
                 </select>
               </div>
-              <h2 style="font-size:20px;">Emotions Analysis</h2>
+            </td>
+            <td>
+              <h2 style="font-size:30px;">Emotions Analysis</h2>
               <div class="select-box">
-                <select id="emotions" name="emotions" class="select" style="width:10%; height:4%; border-radius:6px;color:#ffffff; background-color:#ADD8E6;">
+                <select id="emotions" name="emotions" class="select" style="border-radius:6px; color:#ffffff; background-color:#ADD8E6; width:25%">
                     <option value="" selected hidden>---------</option>
                     <option value="EMP">Empty</option>
                     <option value="SAD">Sadness</option>
@@ -233,8 +238,9 @@
                     <option value="ANG">Anger</option>
                 </select>
               </div>
+            </td></tr></table>
               <div>
-                <button type="submit" style=" font-weight:bold;display:block; border-radius:18px; border: solid 2px ##0000FF; margin:0 auto 0 auto; padding:10px 30px; background:transparent;"> <strong>Submit</strong></button>
+                <button type="submit" style=" font-weight:bold;display:block; border-radius:18px; border: solid 2px ##0000FF; margin:0 auto 0 auto; padding:5px 10%; background:transparent;"> <strong>Submit</strong></button>
               </div>
           </form>
         </div>
