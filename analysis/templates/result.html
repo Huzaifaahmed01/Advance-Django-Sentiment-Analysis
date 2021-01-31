@@ -15,106 +15,11 @@
 </head>
 <style>
     .emoji {
-        font-size: 50px;
+        font-size: 30px;
     }
 </style>
 
 <body>
-    <!-- ['empty', 'sadness', 'enthusiasm', 'neutral',
-            'worry', 'surprise', 'love', 'fun', 'hate', 'happiness',
-            'boredom', 'relief', 'anger'] -->
-    <!-- <table class="table">
-        <thead class="thead-dark">
-            <tr>
-                <th scope="col">Emotions</th>
-                <th scope="col">Emojis</th>
-                <th scope="col">Percentage</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% if emotion == "empty" %}
-            <tr>
-                <td>Empty</td>
-                <td class="emoji">&#128566;</td>
-                <td>@mdo</td>
-            </tr>
-            {% endif %} {% if emotion == "sadness" %}
-            <tr>
-                <td>Sadness</td>
-                <td class="emoji">&#128543;</td>
-                <td>@fat</td>
-            </tr>
-            {% endif %} {% if emotion == "enthusiasm" %}
-            <tr>
-                <td>Enthusiasm</td>
-                <td class="emoji">&#129321;</td>
-                <td>@twitter</td>
-            </tr>
-            {% endif %} {% if emotion == "neutral" %}
-            <tr>
-                <td>Neutral</td>
-                <td class="emoji">&#128578;</td>
-                <td>@twitter</td>
-            </tr>
-            {% endif %} {% if emotion == "worry" %}
-            <tr>
-                <td>Worry</td>
-                <td class="emoji">&#128543;</td>
-                <td>@twitter</td>
-            </tr>
-            {% endif %} {% if emotion == "surprise" %}
-            <tr>
-                <td>Surprise</td>
-                <td class="emoji">&#128562;</td>
-                <td>@twitter</td>
-            </tr>
-            {% endif %} {% if emotion == "love" %}
-            <tr>
-                <td>Love</td>
-                <td class="emoji">&#128525;</td>
-                <td>@twitter</td>
-            </tr>
-            {% endif %} {% if emotion == "fun" %}
-            <tr>
-                <td>Fun</td>
-                <td class="emoji">&#128522;</td>
-                <td>@twitter</td>
-            </tr>
-            {% endif %} {% if emotion == "hate" %}
-            <tr>
-                <td>Hate</td>
-                <td class="emoji">&#128543;</td>
-                <td>@twitter</td>
-            </tr>
-            {% endif %} {% if emotion == "happiness" %}
-            <tr>
-                <td>Happiness</td>
-                <td class="emoji">&#128522;</td>
-                <td>@twitter</td>
-            </tr>
-            {% endif %} {% if emotion == "boredom" %}
-            <tr>
-                <td>Boredom</td>
-                <td class="emoji">&#128580;</td>
-                <td>@twitter</td>
-            </tr>
-            {% endif %} {% if emotion == "relief" %}
-            <tr>
-                <td>Relief</td>
-                <td class="emoji">&#128524;</td>
-                <td>@twitter</td>
-            </tr>
-            {% endif %} {% if emotion == "anger" %}
-            <tr>
-                <td>Anger</td>
-                <td class="emoji">&#128545;</td>
-                <td>@twitter</td>
-            </tr>
-            {% endif %}
-
-        </tbody>
-    </table> -->
-
     <style>
         body {
             background-color: #97deff;
@@ -187,9 +92,9 @@
                     <div id="container1"></div>
                 </figure>
                 {% if sentimentFeedback == "Positive" %}
-                <p style="font-size: 30px;">Your Text is <strong class="inactive" style="color: blue; ">Positive</strong></p>
+                <p style="font-size: 30px; margin:auto 0 auto 0;">Your Text is <strong class="inactive" style="color: blue; ">Positive</strong></p>
                 {% endif %} {% if sentimentFeedback == "Negative" %}
-                <p style="font-size: 30px;">Your Text is <strong class="inactive" style="color: red; ">Negative</strong></p>
+                <p style="font-size: 30px; margin:auto 0 auto 0;">Your Text is <strong class="inactive" style="color: red; ">Negative</strong></p>
                 {% endif %}
 
             </div>
@@ -197,16 +102,44 @@
                 <figure class="highcharts-figure">
                     <div id="container2"></div>
                 </figure>
-                <p style="font-size: 30px;">Your Text is
-                    <strong class="inactive">{{ textEmotion }}</strong></p>
+                <p style="font-size: 30px; margin:auto 0 auto 0;">Your Text is
+                    <strong class="inactive">{{ textEmotion }}</strong>
+                    {% if textEmotion == "Empty" %}
+                    <a class="emoji inactive">&#128566;</a>
+                    {% endif %} {% if textEmotion == "Sadness" %}
+                    <a class="emoji inactive">&#128543;</a>
+                    {% endif %} {% if textEmotion == "Enthusiasm" %}
+                    <a class="emoji inactive">&#129321;</a>
+                    {% endif %} {% if textEmotion == "Neutral" %}
+                    <a class="emoji inactive">&#128578;</a>
+                    {% endif %} {% if textEmotion == "Worry" %}
+                    <a class="emoji inactive">&#128543;</a>
+                    {% endif %} {% if textEmotion == "Surprise" %}
+                    <a class="emoji inactive">&#128562;</a>
+                    {% endif %} {% if textEmotion == "Love" %}
+                    <a class="emoji inactive">&#128525;</a>
+                    {% endif %} {% if textEmotion == "Fun" %}
+                    <a class="emoji inactive">&#128522;</a>
+                    {% endif %} {% if textEmotion == "Hate" %}
+                    <a class="emoji inactive">&#128543;</a>
+                    {% endif %} {% if textEmotion == "Happiness" %}
+                    <a class="emoji inactive">&#128522;</a>
+                    {% endif %} {% if textEmotion == "Boredom" %}
+                    <a class="emoji inactive">&#128580;</a>
+                    {% endif %} {% if textEmotion == "Relief" %}
+                    <a class="emoji inactive">&#128524;</a>
+                    {% endif %} {% if textEmotion == "Anger" %}
+                    <a class="emoji inactive">&#128545;</a>
+                    {% endif %}</p>
             </div>
+        </div><br>
+        <div class="row" style="background: #12b99e;">
+            <h1 style="margin: 0 auto 0 auto; padding: 15px"> Feedback Form </h1>
         </div>
-        <div class="row" style="width:100%">
+        <br>
+        <div class="row" style="width:100%; max-width:100%">
           <form class="" action="{% url 'feedback'%}" method="post" style="width: 100%"> {%  csrf_token %}
             <table style="width:100%;  text-align: center">
-              <tr style="margin: 0 auto 0 auto; background: #12b99e;">
-                <h1 style="font-size:40px; width:100%;  text-align: center; background: #12b99e;"> Feedback Form </h1>
-              </tr>
               <tr>
                 <td>
                 <h2 style="font-size:30px;">Sentiment Analysis</h2>
@@ -284,7 +217,7 @@
                 }
             },
             series: [{
-                name: 'Brands',
+                name: 'Sentiment',
                 colorByPoint: true,
                 data: data1
 
@@ -326,7 +259,7 @@
                 }
             },
             series: [{
-                name: 'Brands',
+                name: 'Emotion',
                 colorByPoint: true,
                 data: data1
 
